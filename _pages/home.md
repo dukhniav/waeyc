@@ -1,6 +1,6 @@
 ---
 ID: 8
-post_title: Home
+post_title: ""
 author: dukhniav
 post_excerpt: ""
 layout: page
