@@ -1,6 +1,6 @@
 ---
 ID: 64
-post_title: Board Elections
+post_title: 'Governing Board &#8211; Elections'
 author: dukhniav
 post_excerpt: ""
 layout: page
