@@ -9,8 +9,7 @@ published: true
 post_date: 2020-05-14 01:10:22
 ---
 <img src="http://localhost:8888/waeyc/wp-content/uploads/elementor/thumbs/kiddos-watching-science-experiment-oqjy4uie0dvlpmdfov52v1o3dt67aplui91tout5ls.jpg" title="kiddos-watching-science-experiment" alt="kiddos-watching-science-experiment" />											
-		<h3 style="text-align: center;">Our Mission</h3><p>We provide services to members and advocate for policies that enable individuals and businesses to  provide high-quality early learning experiences for young children. </p><h3 style="color: #333333; font-family: 'lato', arial;">Our Vision</h3>
-Early childhood professionals are well-qualified, competent and highly compensated, and early childhood programs are of high-quality. Systems that nurture and support high-quality are in place, and financial resources for professional development and program operations are available.		
+		<h3 style="text-align: center;">Our Mission</h3><p>We provide services to members and advocate for policies that enable individuals and businesses to  provide high-quality early learning experiences for young children. </p><h3 style="color: #333333; font-family: 'Lato', arial;">Our Vision</h3><p>Early childhood professionals are well-qualified, competent and highly compensated, and early childhood programs are of high-quality. Systems that nurture and support high-quality are in place, and financial resources for professional development and program operations are available.</p>		
 	    <h2>Become a member</h2>
 	    	    <p><p>Do you work with children from the age of birth through age 8? Join your Membership Association today!</p> </p>
 			    <a href="/about-us/membership/"  >Join today!</a>
