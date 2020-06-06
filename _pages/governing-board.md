@@ -5,7 +5,7 @@ author: dukhniav
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost:8888/waeyc/about-us/governing-board/
+  https://dukhnitskiy.codes/about-us/governing-board/
 published: true
 post_date: 2020-06-04 04:35:30
 ---

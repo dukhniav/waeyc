@@ -5,7 +5,7 @@ author: dukhniav
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost:8888/waeyc/governing-board-application/
+  https://dukhnitskiy.codes/about-us/governing-board-application/
 published: true
 post_date: 2020-06-04 05:53:26
 ---

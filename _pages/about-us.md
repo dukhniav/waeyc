@@ -4,7 +4,7 @@ post_title: About Us
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: http://localhost:8888/waeyc/about-us/
+permalink: https://dukhnitskiy.codes/about-us/
 published: true
 post_date: 2020-05-14 01:13:58
 ---
