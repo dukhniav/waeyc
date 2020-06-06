@@ -8,8 +8,7 @@ permalink: http://dukhnitskiy.codes/
 published: true
 post_date: 2020-05-14 01:10:22
 ---
-<img src="http://dukhnitskiy.codes/wp-content/uploads/elementor/thumbs/kiddos-watching-science-experiment-oql695aoba51t1a24wzhlqsv7un8um1nvlrhzxtlls.jpg" title="kiddos-watching-science-experiment" alt="kiddos-watching-science-experiment" />											
-	    <h2>Become a member!</h2>
+<h2>Become a member!</h2>
 	    	    <p><p>Early educators are everyday heroes. NAEYC supports all who care for, educate, and work on behalf of young children by amplifying YOUR voice and advocating for what we know to be right for children and for educators. Wherever you are in your journey, there’s an NAEYC membership for you!</p></p>
 			    <a href="http://dukhnitskiy.codes/about-us/membership/"  >Learn more</a>
 		<h3 style="color: #333333; font-family: Lato, arial; text-align: center;">Our Mission</h3><p>We provide services to members and advocate for policies that enable individuals and businesses to  provide high-quality early learning experiences for young children.</p><h3 style="color: #333333; font-family: Lato, arial; text-align: center;">Our Vision</h3><p>Early childhood professionals are well-qualified, competent and highly compensated, and early childhood programs are of high-quality. Systems that nurture and support high-quality are in place, and financial resources for professional development and program operations are available.</p>		
