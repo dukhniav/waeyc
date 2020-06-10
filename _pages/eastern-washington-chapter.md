@@ -20,6 +20,6 @@ post_date: 2020-05-14 02:29:56
 							<a href="https://www.facebook.com/Ewaeyc-181871981883637/?hc_ref=ARReZY9HE5_iRM7RndXl1DvVzLifW_cHIWb_LOMQvV7GSGbVsczu0YhfMbUI2uNruRk&#038;fref=nf&#038;__tn__=kC-R" target="_blank" rel="noopener noreferrer">
 					Facebook
 									</a>
-							<a href="http://ewaeyc@hotmail.com" target="_blank" rel="noopener noreferrer">
+							<a href="mailto:ewaeyc@hotmail.com" target="_blank" rel="noopener noreferrer">
 					Envelope
 									</a>
