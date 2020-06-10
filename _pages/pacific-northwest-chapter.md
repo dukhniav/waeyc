@@ -23,6 +23,6 @@ post_date: 2020-05-14 02:29:56
 							<a href="mailto:pnwchapterwaeyc@gmail.com" target="_blank" rel="noopener noreferrer">
 					Envelope
 									</a>
-							<a target="_blank" rel="noopener noreferrer">
-					Youtube
+							<a href="http://pnwearlylearning.org" target="_blank" rel="noopener noreferrer">
+					Link
 									</a>
