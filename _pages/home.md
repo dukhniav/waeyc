@@ -4,7 +4,7 @@ post_title: Home
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: https://dukhnitskiy.codes/
+permalink: http://dukhnitskiy.codes/
 published: true
 post_date: 2020-05-14 01:10:22
 ---

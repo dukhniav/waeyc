@@ -5,7 +5,7 @@ author: dukhniav
 post_excerpt: ""
 layout: page
 permalink: >
-  https://dukhnitskiy.codes/conference/travel-information/
+  http://dukhnitskiy.codes/conference/travel-information/
 published: true
 post_date: 2020-05-14 02:03:23
 ---

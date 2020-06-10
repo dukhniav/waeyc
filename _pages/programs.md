@@ -4,7 +4,7 @@ post_title: Programs
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: https://dukhnitskiy.codes/programs/
+permalink: http://dukhnitskiy.codes/programs/
 published: true
 post_date: 2020-06-04 05:58:54
 ---
