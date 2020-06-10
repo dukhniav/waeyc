@@ -16,7 +16,7 @@ post_date: 2020-05-14 02:29:56
 <li id="menu-item-382"><a href="http://dukhnitskiy.codes/chapters/pierce-county-chapter/" class = "hfe-menu-item">Pierce County Chapter</a></li>
 </ul></nav>              
 										<img width="426" height="232" src="http://dukhnitskiy.codes/wp-content/uploads/2020/06/426_WAEYC_Northwest-Chapter.jpg" alt="" srcset="http://dukhnitskiy.codes/wp-content/uploads/2020/06/426_WAEYC_Northwest-Chapter.jpg 426w, http://dukhnitskiy.codes/wp-content/uploads/2020/06/426_WAEYC_Northwest-Chapter-300x163.jpg 300w" sizes="(max-width: 426px) 100vw, 426px" />											
-		<h5>Board Members</h5><ul><li>President: Correne Bonkowski </li><li>Co-Professional Development: Melissa Sire</li><li>Secretary: Janet Radford</li><li>Communications Coordinator: Rachel Franz</li><li>Treasurer: Elyssa Yunker</li><li>Member-at-Large: Meredith Johnson</li><li>Member-at-Large: Tiffany Malicoat</li><li>Member-at-Large: Cheryl Moon</li><li>Member-at-Large: Patricia Vierra</li></ul><h5>Upcoming events</h5>[tribe_mini_calendar]		
+		<h5>Board Members</h5><ul><li>President: Correne Bonkowski </li><li>Co-Professional Development: Melissa Sire</li><li>Secretary: Janet Radford</li><li>Communications Coordinator: Rachel Franz</li><li>Treasurer: Elyssa Yunker</li><li>Member-at-Large: Meredith Johnson</li><li>Member-at-Large: Tiffany Malicoat</li><li>Member-at-Large: Cheryl Moon</li><li>Member-at-Large: Patricia Vierra</li></ul><h5>Upcoming events</h5>		
 							<a href="https://www.facebook.com/PacificNorthwestWAEYC" target="_blank" rel="noopener noreferrer">
 					Facebook
 									</a>
