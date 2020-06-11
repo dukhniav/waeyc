@@ -8,4 +8,4 @@ permalink: http://dukhnitskiy.codes/events/
 published: true
 post_date: 2020-06-10 03:21:03
 ---
-<h1 style="text-align: center;">Events</h1>
+[flexy_breadcrumb] <h1 style="text-align: center;">Events</h1>
