@@ -9,7 +9,7 @@ published: true
 post_date: 2020-05-14 02:08:31
 ---
 <h1><a href="">2020 WAEYC Conference</a></h1>		
-				<nav data-toggle-icon="fas fa-align-justify fa-solid" data-close-icon="far fa-window-close fa-regular" data-full-width="yes"><ul id="menu-1-fce6754"><li id="menu-item-163"><a href="http://dukhnitskiy.codes/conference/exhibitors/" class = "hfe-menu-item">Exhibitors</a></li>
+				<nav data-toggle-icon="" data-close-icon="" data-full-width=""><ul id="menu-1-fce6754"><li id="menu-item-163"><a href="http://dukhnitskiy.codes/conference/exhibitors/" class = "hfe-menu-item">Exhibitors</a></li>
 <li id="menu-item-164"><a href="http://dukhnitskiy.codes/conference/presenters/" class = "hfe-menu-item">Presenters</a></li>
 <li id="menu-item-165"><a href="http://dukhnitskiy.codes/conference/registration/" class = "hfe-menu-item">Registration</a></li>
 <li id="menu-item-166"><a href="http://dukhnitskiy.codes/conference/travel-information/" class = "hfe-menu-item">Travel Information</a></li>
