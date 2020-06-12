@@ -9,19 +9,75 @@ permalink: >
 published: true
 post_date: 2020-05-14 02:05:12
 ---
-<h1 style="text-align: center;">Become a member!</h1>		
-				<nav data-toggle-icon="" data-close-icon="" data-full-width=""><ul id="menu-1-4a85ab1"><li id="menu-item-385"><a href="http://dukhnitskiy.codes/chapters/eastern-washington-chapter/" class = "hfe-menu-item">Eastern Washington Chapter</a></li>
-<li id="menu-item-383"><a href="http://dukhnitskiy.codes/chapters/olympic-peninsula-chapter/" class = "hfe-menu-item">Olympic Peninsula Chapter</a></li>
-<li id="menu-item-384"><a href="http://dukhnitskiy.codes/chapters/pacific-northwest-chapter/" class = "hfe-menu-item">Pacific Northwest Chapter</a></li>
-<li id="menu-item-382"><a href="http://dukhnitskiy.codes/chapters/pierce-county-chapter/" class = "hfe-menu-item">Pierce County Chapter</a></li>
-</ul></nav>              
-		<h4 style="text-align: center;">Why Join?</h4><p>Early educators and families work every day to make a difference in the lives of young children. NAEYC works to support these remarkable individuals by amplifying their voices, and passionately advocating for what we know to be right for children, their families, and educators. NAEYC also offers a robust suite of national resources and local offerings to provide NAEYC members access to cutting-edge content and professional development through online communities, publications, events and more.</p><h5 style="text-align: center;">Which Membership Is Best for You?</h5><p>Early educators are everyday heroes. NAEYC supports all who care for, educate, and work on behalf of young children by amplifying YOUR voice and advocating for what we know to be right for children and for educators. Wherever you are in your journey, there’s an NAEYC membership for you!</p><h5 style="text-align: center;">NAEYC Membership Categories</h5>		
-												<a href="">Entry Level Membership</a>
-					<p>Entry Level membership is a digitally-based introduction to NAEYC and its diverse professional resources. Are you a student or young professional joining NAEYC for the first time? This is where to start! </p><p>Benefits include:</p><ul><li>Access to content you can use right away—such as ideas for implementing developmentally appropriate practice, fostering strong family engagement, and more— through NAEYC digital resources.<br />Access to NAEYC’s Interest Forums, where you can connect with members who share your specific passion.</li><li>Discounted insurance offerings, including professional liability insurance.<br />20 percent discount on all orders from NAEYC’s online store, as well as access to exclusive member-only resource sales during the year.</li><li>Exclusive access to member-only sessions at NAEYC events, including the member-only VIP lounge at Annual Conference and the member-only hour in the exhibit hall.</li><li>Registration opportunities for member-only events, including our Public Policy Forum, which brings members together in Washington, DC, to advance federal and state early childhood policy.</li><li>Discounted subscription rates for additional publications and resources: <em>Early Childhood Research Quarterly, Exchange Magazine, Highlights High Five, Highlights Hello, and Education Week.</em></li></ul><p>In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Entry Level members, including: Access to Special Events</p>
-												<a href="">Standard Membership</a>
-					<p>Benefits include all Entry Level membership benefits, plus:</p><ul><li>A subscription to one of NAEYC’s award-winning periodicals. Choose from five issues of Young Children or five issues of Teaching Young Children (TYC).</li><li>One complimentary NAEYC book, published and selected by NAEYC, delivered to you during your membership year.</li><li>Registration discounts for NAEYC’s events, including our Annual Conference and Professional Learning Institute.</li><li>Deep discounts and coupons for every teacher’s favorite retail and entertainment venues across the country.</li><li>Complimentary registration for one NAEYC online professional learning course during your membership year.</li></ul><p>In addition to the national level membership benefits above, Washington AEYC offers excellent local benefits to Standard members, including <em>Access to special events, Conference and professional development discounts</em></p>
-												<a href="">Premium Membership</a>
-					<p>Benefits at this level include all Entry and Standard membership benefits, as well as:</p><ul><li>Four complimentary publications handpicked by NAEYC and delivered to you during your membership year, as well as one additional publication of your choice.</li><li>Subscriptions to both of NAEYC’s award-winning periodicals, Young Children and Teaching Young Children (TYC).</li><li>Complimentary registration for two NAEYC online professional learning courses during your membership year.</li><li>Exclusive access to VIP events, such as book signings and networking sessions, at NAEYC’s Annual Conference and Professional Learning Institute.</li></ul><p>In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Premium members, including: VIP events</p>
-												<a href="">Family Membership</a>
-					<p>This is an exciting new membership option designed for members outside of the early learning profession, such as parents and other family members. Benefits include:</p><ul><li>Access to exclusive NAEYC content specifically for families. Looking for high-quality early learning centers? Wondering how best to support your child’s learning once they get home from school? This is the membership option for you!</li><li>Access to NAEYC’s Interest Forums, where you can connect with members to learn about specific topics in early childhood. A great resource for families!</li><li>Discounted insurance offerings, including home, auto, and life insurance.</li><li>20 percent discount on all orders from NAEYC’s online store, as well as access to exclusive member-only sales during the year.</li><li>Discounted subscription rates for additional publications and resources: Early Childhood Research Quarterly, Exchange Magazine, Highlights High Five, Highlights Hello, and Education Week.</li></ul><p>In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Family members, including Special events</p>
-		<p>Let NAEYC guide the way. With access to NAEYC’s extensive suite of resources for families, you’ll learn about the cutting-edge research, best practices, and policies impacting your child’s earliest learning experiences. </p><h5 style="text-align: center;">Affiliate Groups</h5><p>As an added benefit, ALL members receive membership in their local or regional affiliate group. Your affiliate gives you access to local conferences, professional development opportunities, local networking options, and more! </p><h5 style="text-align: center;">Membership Auto-Renewal</h5><p>It's now easier than ever to ensure your membership and benefits never lapse! During the join and renewal process, you can select to renew your membership automatically each year! </p><center>[video src="https://www.youtube.com/watch?v=EOC1kZuZsaE&feature=emb_logo" width="750" height="450"]</center>https://www.youtube.com/watch?v=XHOmBV4js_E
+<h1 style="text-align: center;">Become a member!</h1>
+<nav data-toggle-icon="" data-close-icon="" data-full-width="">
+<ul id="menu-1-4a85ab1">
+ 	<li id="menu-item-385"><a href="http://dukhnitskiy.codes/chapters/eastern-washington-chapter/" class="hfe-menu-item">Eastern Washington Chapter</a></li>
+ 	<li id="menu-item-383"><a href="http://dukhnitskiy.codes/chapters/olympic-peninsula-chapter/" class="hfe-menu-item">Olympic Peninsula Chapter</a></li>
+ 	<li id="menu-item-384"><a href="http://dukhnitskiy.codes/chapters/pacific-northwest-chapter/" class="hfe-menu-item">Pacific Northwest Chapter</a></li>
+ 	<li id="menu-item-382"><a href="http://dukhnitskiy.codes/chapters/pierce-county-chapter/" class="hfe-menu-item">Pierce County Chapter</a></li>
+</ul>
+</nav>
+<h4 style="text-align: center;">Why Join?</h4>
+Early educators and families work every day to make a difference in the lives of young children. NAEYC works to support these remarkable individuals by amplifying their voices, and passionately advocating for what we know to be right for children, their families, and educators. NAEYC also offers a robust suite of national resources and local offerings to provide NAEYC members access to cutting-edge content and professional development through online communities, publications, events and more.
+<h5 style="text-align: center;">Which Membership Is Best for You?</h5>
+Early educators are everyday heroes. NAEYC supports all who care for, educate, and work on behalf of young children by amplifying YOUR voice and advocating for what we know to be right for children and for educators. Wherever you are in your journey, there’s an NAEYC membership for you!
+<h5 style="text-align: center;">NAEYC Membership Categories</h5>
+<a href="">Entry Level Membership</a>
+
+Entry Level membership is a digitally-based introduction to NAEYC and its diverse professional resources. Are you a student or young professional joining NAEYC for the first time? This is where to start!
+
+Benefits include:
+<ul>
+ 	<li>Access to content you can use right away—such as ideas for implementing developmentally appropriate practice, fostering strong family engagement, and more— through NAEYC digital resources.
+Access to NAEYC’s Interest Forums, where you can connect with members who share your specific passion.</li>
+ 	<li>Discounted insurance offerings, including professional liability insurance.
+20 percent discount on all orders from NAEYC’s online store, as well as access to exclusive member-only resource sales during the year.</li>
+ 	<li>Exclusive access to member-only sessions at NAEYC events, including the member-only VIP lounge at Annual Conference and the member-only hour in the exhibit hall.</li>
+ 	<li>Registration opportunities for member-only events, including our Public Policy Forum, which brings members together in Washington, DC, to advance federal and state early childhood policy.</li>
+ 	<li>Discounted subscription rates for additional publications and resources: <em>Early Childhood Research Quarterly, Exchange Magazine, Highlights High Five, Highlights Hello, and Education Week.</em></li>
+</ul>
+In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Entry Level members, including: Access to Special Events
+
+<a href="">Standard Membership</a>
+
+Benefits include all Entry Level membership benefits, plus:
+<ul>
+ 	<li>A subscription to one of NAEYC’s award-winning periodicals. Choose from five issues of Young Children or five issues of Teaching Young Children (TYC).</li>
+ 	<li>One complimentary NAEYC book, published and selected by NAEYC, delivered to you during your membership year.</li>
+ 	<li>Registration discounts for NAEYC’s events, including our Annual Conference and Professional Learning Institute.</li>
+ 	<li>Deep discounts and coupons for every teacher’s favorite retail and entertainment venues across the country.</li>
+ 	<li>Complimentary registration for one NAEYC online professional learning course during your membership year.</li>
+</ul>
+In addition to the national level membership benefits above, Washington AEYC offers excellent local benefits to Standard members, including <em>Access to special events, Conference and professional development discounts</em>
+
+<a href="">Premium Membership</a>
+
+Benefits at this level include all Entry and Standard membership benefits, as well as:
+<ul>
+ 	<li>Four complimentary publications handpicked by NAEYC and delivered to you during your membership year, as well as one additional publication of your choice.</li>
+ 	<li>Subscriptions to both of NAEYC’s award-winning periodicals, Young Children and Teaching Young Children (TYC).</li>
+ 	<li>Complimentary registration for two NAEYC online professional learning courses during your membership year.</li>
+ 	<li>Exclusive access to VIP events, such as book signings and networking sessions, at NAEYC’s Annual Conference and Professional Learning Institute.</li>
+</ul>
+In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Premium members, including: VIP events
+
+<a href="">Family Membership</a>
+
+This is an exciting new membership option designed for members outside of the early learning profession, such as parents and other family members. Benefits include:
+<ul>
+ 	<li>Access to exclusive NAEYC content specifically for families. Looking for high-quality early learning centers? Wondering how best to support your child’s learning once they get home from school? This is the membership option for you!</li>
+ 	<li>Access to NAEYC’s Interest Forums, where you can connect with members to learn about specific topics in early childhood. A great resource for families!</li>
+ 	<li>Discounted insurance offerings, including home, auto, and life insurance.</li>
+ 	<li>20 percent discount on all orders from NAEYC’s online store, as well as access to exclusive member-only sales during the year.</li>
+ 	<li>Discounted subscription rates for additional publications and resources: Early Childhood Research Quarterly, Exchange Magazine, Highlights High Five, Highlights Hello, and Education Week.</li>
+</ul>
+In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Family members, including Special events
+
+Let NAEYC guide the way. With access to NAEYC’s extensive suite of resources for families, you’ll learn about the cutting-edge research, best practices, and policies impacting your child’s earliest learning experiences.&nbsp;
+<h5 style="text-align: center;">Affiliate Groups</h5>
+As an added benefit, ALL members receive membership in their local or regional affiliate group. Your affiliate gives you access to local conferences, professional development opportunities, local networking options, and more!&nbsp;
+<h5 style="text-align: center;">Membership Auto-Renewal</h5>
+It's now easier than ever to ensure your membership and benefits never lapse! During the join and renewal process, you can select to renew your membership automatically each year!&nbsp;
+
+<center>[video src="https://www.youtube.com/watch?v=EOC1kZuZsaE&amp;feature=emb_logo" width="750" height="450"]</center>https://www.youtube.com/watch?v=XHOmBV4js_E
