@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-05-14 02:05:12
 ---
-<h1><span style="font-family: arial, helvetica, sans-serif;">Become a member!</span></h1>
+<h1 style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;">Become a member!</span></h1>
 <h4 style="text-align: center;">Why Join?</h4>
 Early educators and families work every day to make a difference in the lives of young children. NAEYC works to support these remarkable individuals by amplifying their voices, and passionately advocating for what we know to be right for children, their families, and educators. NAEYC also offers a robust suite of national resources and local offerings to provide NAEYC members access to cutting-edge content and professional development through online communities, publications, events and more.
 <h5 style="text-align: center;">Which Membership Is Best for You?</h5>
