@@ -9,13 +9,13 @@ permalink: >
 published: true
 post_date: 2020-05-14 02:05:12
 ---
-<h1 style="text-align: center;">Become a member!</h1>
+<h1><span style="font-family: arial, helvetica, sans-serif;">Become a member!</span></h1>
 <h4 style="text-align: center;">Why Join?</h4>
 Early educators and families work every day to make a difference in the lives of young children. NAEYC works to support these remarkable individuals by amplifying their voices, and passionately advocating for what we know to be right for children, their families, and educators. NAEYC also offers a robust suite of national resources and local offerings to provide NAEYC members access to cutting-edge content and professional development through online communities, publications, events and more.
 <h5 style="text-align: center;">Which Membership Is Best for You?</h5>
 Early educators are everyday heroes. NAEYC supports all who care for, educate, and work on behalf of young children by amplifying YOUR voice and advocating for what we know to be right for children and for educators. Wherever you are in your journey, there’s an NAEYC membership for you!
 <h5 style="text-align: center;">NAEYC Membership Categories</h5>
-<a href="">Entry Level Membership</a>
+<a>Entry Level Membership</a>
 
 Entry Level membership is a digitally-based introduction to NAEYC and its diverse professional resources. Are you a student or young professional joining NAEYC for the first time? This is where to start!
 
@@ -31,7 +31,7 @@ Access to NAEYC’s Interest Forums, where you can connect with members who shar
 </ul>
 In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Entry Level members, including: Access to Special Events
 
-<a href="">Standard Membership</a>
+<a>Standard Membership</a>
 
 Benefits include all Entry Level membership benefits, plus:
 <ul>
@@ -43,7 +43,7 @@ Benefits include all Entry Level membership benefits, plus:
 </ul>
 In addition to the national level membership benefits above, Washington AEYC offers excellent local benefits to Standard members, including <em>Access to special events, Conference and professional development discounts</em>
 
-<a href="">Premium Membership</a>
+<a>Premium Membership</a>
 
 Benefits at this level include all Entry and Standard membership benefits, as well as:
 <ul>
@@ -54,7 +54,7 @@ Benefits at this level include all Entry and Standard membership benefits, as we
 </ul>
 In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Premium members, including: VIP events
 
-<a href="">Family Membership</a>
+<a>Family Membership</a>
 
 This is an exciting new membership option designed for members outside of the early learning profession, such as parents and other family members. Benefits include:
 <ul>
@@ -66,11 +66,12 @@ This is an exciting new membership option designed for members outside of the ea
 </ul>
 In addition to the national level benefits above, Washington AEYC offers excellent local benefits to Family members, including Special events
 
-Let NAEYC guide the way. With access to NAEYC’s extensive suite of resources for families, you’ll learn about the cutting-edge research, best practices, and policies impacting your child’s earliest learning experiences.&nbsp;
+Let NAEYC guide the way. With access to NAEYC’s extensive suite of resources for families, you’ll learn about the cutting-edge research, best practices, and policies impacting your child’s earliest learning experiences.
 <h5 style="text-align: center;">Affiliate Groups</h5>
-As an added benefit, ALL members receive membership in their local or regional affiliate group. Your affiliate gives you access to local conferences, professional development opportunities, local networking options, and more!&nbsp;
+As an added benefit, ALL members receive membership in their local or regional affiliate group. Your affiliate gives you access to local conferences, professional development opportunities, local networking options, and more!
 <h5 style="text-align: center;">Membership Auto-Renewal</h5>
-It's now easier than ever to ensure your membership and benefits never lapse! During the join and renewal process, you can select to renew your membership automatically each year!&nbsp;
+It's now easier than ever to ensure your membership and benefits never lapse! During the join and renewal process, you can select to renew your membership automatically each year!
 
 [video src="https://www.youtube.com/watch?v=EOC1kZuZsaE&amp;feature=emb_logo" width="750" height="450"]
+
 https://www.youtube.com/watch?v=XHOmBV4js_E
