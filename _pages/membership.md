@@ -9,7 +9,11 @@ permalink: >
 published: true
 post_date: 2020-05-14 02:05:12
 ---
-<h1 style="text-align: center;">Become a member!</h1>		
+<h1>Become a member!</h1>		
+			<a href="http://www.naeyc.org/membership/join" role="button">
+						Join
+					</a>
+		https://www.youtube.com/watch?v=EOC1kZuZsaE&#038;feature=emb_logo		
 				<nav data-toggle-icon="" data-close-icon="" data-full-width=""><ul id="menu-1-4a85ab1"><li id="menu-item-385"><a href="http://dukhnitskiy.codes/chapters/eastern-washington-chapter/" class = "hfe-menu-item">Eastern Washington Chapter</a></li>
 <li id="menu-item-383"><a href="http://dukhnitskiy.codes/chapters/olympic-peninsula-chapter/" class = "hfe-menu-item">Olympic Peninsula Chapter</a></li>
 <li id="menu-item-384"><a href="http://dukhnitskiy.codes/chapters/pacific-northwest-chapter/" class = "hfe-menu-item">Pacific Northwest Chapter</a></li>
