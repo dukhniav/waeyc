@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2020-05-14 02:05:12
 ---
+<h1 style="text-align: center;">Become a member!</h1>
