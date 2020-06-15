@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2020-06-04 04:35:30
 ---
-[tmm name="governing-board"]
+[wpteam id="547"]
