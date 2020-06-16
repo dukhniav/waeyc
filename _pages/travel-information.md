@@ -10,10 +10,10 @@ published: true
 post_date: 2020-05-14 02:03:23
 ---
 <h1>Travel Information</h1>		
-		<a href="http://www.lynnwoodcc.com/directions.aspx" data-text="">
+		<a href="http://www.lynnwoodcc.com/directions.aspx" data-text="Get driving directions">
 				Driving Directions
 		</a>
-		<a href="http://www.lynnwoodcc.com/ " data-text="">
+		<a href="http://www.lynnwoodcc.com/ " data-text="Get more information">
 				More Information
 		</a>
 										<img width="300" height="168" src="http://dukhnitskiy.codes/wp-content/uploads/2020/06/sealn-exterior-0030-hor-clsc-300x168.jpg" alt="" srcset="http://dukhnitskiy.codes/wp-content/uploads/2020/06/sealn-exterior-0030-hor-clsc-300x168.jpg 300w, http://dukhnitskiy.codes/wp-content/uploads/2020/06/sealn-exterior-0030-hor-clsc.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />											
