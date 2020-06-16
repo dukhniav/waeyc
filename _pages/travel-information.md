@@ -37,3 +37,4 @@ post_date: 2020-05-14 02:03:23
 		<a href="http://dukhnitskiy.codes/wp-content/uploads/2020/06/WAEYC-Conference-Booking-Instructions.pdf" data-text="More info">
 				More info
 		</a>
+		<p>Reference: WAEYC Conference when booking</p>
