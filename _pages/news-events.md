@@ -1,11 +1,10 @@
 ---
-ID: 70
+ID: 567
 post_title: 'News &#038; Events'
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dukhnitskiy.codes/about-us/news-events/
+permalink: http://dukhnitskiy.codes/news-events/
 published: true
-post_date: 2020-05-14 02:05:38
+post_date: 2020-06-16 00:34:23
 ---
