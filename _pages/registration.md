@@ -9,3 +9,21 @@ permalink: >
 published: true
 post_date: 2020-05-14 02:02:54
 ---
+<h1>Registration</h1>		
+				<h4>2019 Online Registration is CLOSED</h4>
+																						<p><p>Space for the conference is still available and you can register onsite. Please email <a href="mailto:amandacardwell@frontier.com">amandacardwell@frontier.com </a>with any questions.  </p></p>
+									<a href="">WAEYC Member</a>
+									<a href="">Group of 6+</a>
+									<a href="">Non-member</a>
+									<a href="">ECTPC/WCCC Member</a>
+									<a href="">Student Volunteer</a>
+									WAEYC Member
+					<p>1 Day</p><ul><li>$170</li></ul><p>2 Days</p><p>3 Days (special pricing)</p>
+									Group of 6+
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+									Non-member
+					Tab Content
+									ECTPC/WCCC Member
+					Tab Content
+									Student Volunteer
+					<p>Attending 1 day:</p><ul><li> </li></ul>
