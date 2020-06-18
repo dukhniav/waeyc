@@ -45,10 +45,110 @@ post_date: 2020-05-14 02:02:54
     </li>
   </ul>
 									Group of 6+
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+  <h2>On-time registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $170
+      $245
+      $320
+    </li>
+  </ul>
+  <h2>Late registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $220
+      $295
+      $340
+    </li>
+  </ul>
 									Non-member
-					Tab Content
+  <h2>On-time registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $200
+      $275
+      $340
+    </li>
+  </ul>
+  <h2>Late registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $220
+      $295
+      $340
+    </li>
+  </ul>
 									ECTPC/WCCC Member
-					Tab Content
+  <h2>On-time registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $75
+      $155
+      $320
+    </li>
+  </ul>
+  <h2>Late registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $95
+      $175
+      $340
+    </li>
+  </ul>
 									Student Volunteer
-					<p>Attending 1 day:</p><ul><li> </li></ul>
+  <h2>On-time registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $0 ($25 w/meals)
+      $0 ($50 w/meals)
+      $0 ($75 w/meals)
+    </li>
+  </ul>
+  <h2>Late registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      N/A
+      N/A
+      N/A
+    </li>
+  </ul>
