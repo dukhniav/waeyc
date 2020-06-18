@@ -23,7 +23,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $170
@@ -36,7 +36,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $220
@@ -50,7 +50,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $170
@@ -63,7 +63,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $220
@@ -77,7 +77,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $200
@@ -90,7 +90,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $220
@@ -104,7 +104,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $75
@@ -117,7 +117,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $95
@@ -131,7 +131,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       $0 ($25 w/meals)
@@ -144,7 +144,7 @@ post_date: 2020-05-14 02:02:54
     <li>
       1 Day
       2 Days
-      3 Days *
+      3 Days
     </li>
     <li>
       N/A
