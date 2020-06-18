@@ -18,7 +18,32 @@ post_date: 2020-05-14 02:02:54
 									<a href="">ECTPC/WCCC Member</a>
 									<a href="">Student Volunteer</a>
 									WAEYC Member
-					<p>1 Day</p><ul><li>$170</li></ul><p>2 Days</p><p>3 Days (special pricing)</p>
+  <h2>On-time registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $170
+      $245
+      $320
+    </li>
+  </ul>
+  <h2>Late registration</h2>
+  <ul>
+    <li>
+      1 Day
+      2 Days
+      3 Days *
+    </li>
+    <li>
+      $220
+      $295
+      $340
+    </li>
+  </ul>
 									Group of 6+
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 									Non-member
