@@ -1,12 +1,11 @@
 ---
-ID: 567
+ID: 70
 post_title: 'News &#038; Events'
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: http://dukhnitskiy.codes/news-events/
+permalink: >
+  http://dukhnitskiy.codes/about-us/news-events/
 published: true
-post_date: 2020-06-16 00:34:23
+post_date: 2020-05-14 02:05:38
 ---
-<h1>News & Events</h1>		
-		<h3 style="text-align: center;">Events</h3><h3 style="text-align: center;">Board Meeting Minutes</h3>
