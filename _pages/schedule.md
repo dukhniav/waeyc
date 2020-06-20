@@ -23,4 +23,8 @@ post_date: 2020-05-14 02:02:41
 </ul>
 </li>
 </ul></nav>              
-		[MEC id="587"]
+			<h2>Day 1</h2>		
+												<a href="">8:00 AM - 5:30 PM - 	Registration Hours</a>
+					<p>Registration Hours</p>
+												<a href="">12:00 PM - 5:00 PM - Exhibit Hall Hours</a>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
