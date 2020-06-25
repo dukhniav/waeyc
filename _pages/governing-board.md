@@ -9,4 +9,5 @@ permalink: >
 published: true
 post_date: 2020-06-04 04:35:30
 ---
-[awsmteam id="554"]
+<h1>Governing Board</h1>		
+		[awsmteam id="554"]
