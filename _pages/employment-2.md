@@ -1,10 +1,11 @@
 ---
 ID: 761
-post_title: Jobs
+post_title: Employment
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: http://dukhnitskiy.codes/about-us/jobs/
+permalink: >
+  http://dukhnitskiy.codes/about-us/employment-2/
 published: true
 post_date: 2020-06-28 01:20:14
 ---
