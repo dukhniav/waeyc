@@ -9,4 +9,5 @@ permalink: >
 published: true
 post_date: 2020-06-28 01:20:11
 ---
-[submit_job_form]
+<h1>Post a job!</h1>		
+		[submit_job_form]
