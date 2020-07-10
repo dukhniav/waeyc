@@ -13,7 +13,7 @@ post_date: 2020-07-10 04:13:03
 				<h4>IMPORTANT! </h4>
 																						<p><p>To be eligible for clock hours, you must supply a minimum of 3 hours of training.</p></p>
 		<p>If you wish to provide OSPI Clock Hours for your attendance at the event please refer to the information below.</p><p>Attendees must attend all three hours of training and sign an attendance sheet to document their participation.</p><p>At the END of the event (not sooner) attendees must pay $3 per clock hour to the providing agency.</p><p>Once their payment has been collected and documented you may give them the completed in-service form.</p><p>Please note: This form is their clock hours. It is their responsibility to submit that form to whatever entity is recording their hours (school district, etc.). We always recommend participants take a copy of their form before turning it in.</p>		
-		<a href="#" data-text="Go!">
+		<a href="http://dukhnitskiy.codes/about-us/clock-hours/" data-text="Clock Hours Request Form">
 				Clock Hours Request Form
 		</a>
 												<a href="">Clock Hours</a>
