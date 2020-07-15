@@ -8,3 +8,5 @@ permalink: http://dukhnitskiy.codes/elections/
 published: true
 post_date: 2020-07-15 22:16:32
 ---
+<h1>Governing Board Elections</h1>		
+				<h4>WAEYC Elections Process is NOT currently Active </h4>
