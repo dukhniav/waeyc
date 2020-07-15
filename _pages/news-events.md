@@ -12,17 +12,17 @@ post_date: 2020-06-16 00:34:23
 		<h3 style="text-align: center;">Board Meeting Minutes</h3>		
 					<ul>
 							<li >
-					<a href="http://dukhnitskiy.codes/waeyc-board-minutes-april-2020/" target="_blank" rel="noopener noreferrer">						
+					<a href="http://dukhnitskiy.codes/wp-content/uploads/2020/07/WAEYC-Board-Minutes-April-2020.pdf" target="_blank" rel="noopener noreferrer">						
 										April 2020
 											</a>
 									</li>
 								<li >
-					<a href="http://dukhnitskiy.codes/waeyc-board-meeting-minutes-may-2020/" target="_blank" rel="noopener noreferrer">						
+					<a href="http://dukhnitskiy.codes/wp-content/uploads/2020/07/WAEYC-Board-Meeting-Minutes-May-2020.pdf" target="_blank" rel="noopener noreferrer">						
 										May 2020
 											</a>
 									</li>
 								<li >
-					<a href="http://dukhnitskiy.codes/waeyc-board-meeting-minutes-june-2020/" target="_blank" rel="noopener noreferrer">						
+					<a href="http://dukhnitskiy.codes/wp-content/uploads/2020/07/WAEYC-Board-Meeting-Minutes-June-2020.pdf" target="_blank" rel="noopener noreferrer">						
 										June 2020
 											</a>
 									</li>
