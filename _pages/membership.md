@@ -337,4 +337,10 @@ post_date: 2020-05-14 02:05:12
 		<a href="https://www.naeyc.org/get-involved/membership/join" data-text="Go!">
 				Join now!
 		</a>
-		<p>Let NAEYC guide the way. With access to NAEYC’s extensive suite of resources for families, you’ll learn about the cutting-edge research, best practices, and policies impacting your child’s earliest learning experiences. </p><h5 style="text-align: center;">Affiliate Groups</h5><p>As an added benefit, ALL members receive membership in their local or regional affiliate group. Your affiliate gives you access to local conferences, professional development opportunities, local networking options, and more! </p><h5 style="text-align: center;">Membership Auto-Renewal</h5><p>It's now easier than ever to ensure your membership and benefits never lapse! During the join and renewal process, you can select to renew your membership automatically each year! </p><center>[video src="https://www.youtube.com/watch?v=EOC1kZuZsaE&feature=emb_logo" width="750" height="450"]</center>https://www.youtube.com/watch?v=EOC1kZuZsaE&#038;feature=emb_logo
+		<p>Let NAEYC guide the way. With access to NAEYC’s extensive suite of resources for families, you’ll learn about the cutting-edge research, best practices, and policies impacting your child’s earliest learning experiences. </p>		
+			<h2>Affiliate Groups
+</h2>		
+		<p>As an added benefit, ALL members receive membership in their local or regional affiliate group. Your affiliate gives you access to local conferences, professional development opportunities, local networking options, and more! </p>		
+			<h2>Membership Auto-Renewal
+</h2>		
+		<p>It's now easier than ever to ensure your membership and benefits never lapse! During the join and renewal process, you can select to renew your membership automatically each year! </p><center>[video src="https://www.youtube.com/watch?v=EOC1kZuZsaE&feature=emb_logo" width="750" height="450"]</center>https://www.youtube.com/watch?v=EOC1kZuZsaE&#038;feature=emb_logo
