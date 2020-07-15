@@ -16,7 +16,7 @@ post_date: 2020-05-14 02:05:12
 			<h2>Why Join?</h2>		
 		<p> </p><p>Early educators and families work every day to make a difference in the lives of young children. NAEYC works to support these remarkable individuals by amplifying their voices, and passionately advocating for what we know to be right for children, their families, and educators. NAEYC also offers a robust suite of national resources and local offerings to provide NAEYC members access to cutting-edge content and professional development through online communities, publications, events and more.</p>		
 			<h2>Which Membership Is Best for You?</h2>		
-		<p> </p><p>Early educators are everyday heroes. NAEYC supports all who care for, educate, and work on behalf of young children by amplifying YOUR voice and advocating for what we know to be right for children and for educators. Wherever you are in your journey, there’s an NAEYC membership for you!</p>		
+		<p>Early educators are everyday heroes. NAEYC supports all who care for, educate, and work on behalf of young children by amplifying YOUR voice and advocating for what we know to be right for children and for educators. Wherever you are in your journey, there’s an NAEYC membership for you!</p><p> </p>		
 			<h2>Value at Every Level</h2>		
 		    <table style="width: 100%;" cellspacing="5" cellpadding="5">
         <thead>
