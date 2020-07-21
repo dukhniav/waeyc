@@ -11,7 +11,7 @@ post_date: 2020-05-14 02:08:31
 <h1><a href="">WAEYC Conference</a></h1>		
 				<h4>The 2020 WAEYC conference has gone virtual!</h4>
 																						<p><p>Please see the virtual conference page.</p><p><strong> </strong></p></p>
-			<a href="#">
+			<a href="http://dukhnitskiy.codes/virtual-conference/">
 																				Virtual Conference
 							</a>
 			<h3>2021 WAEYC Conference</h3>		
