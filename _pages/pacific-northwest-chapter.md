@@ -23,7 +23,7 @@ post_date: 2020-05-14 02:29:56
 					Envelope
 									</a>
 							<a href="http://pnwearlylearning.org" target="_blank" rel="noopener noreferrer">
-					Link
+					External-link-alt
 									</a>
 		<h2 style="text-align: center;">Board Members</h2><ul><li>President: Correne Bonkowski </li><li>Co-Professional Development: Melissa Sire</li><li>Secretary: Janet Radford</li><li>Communications Coordinator: Rachel Franz</li><li>Treasurer: Elyssa Yunker</li><li>Member-at-Large: Meredith Johnson</li><li>Member-at-Large: Tiffany Malicoat</li><li>Member-at-Large: Cheryl Moon</li><li>Member-at-Large: Patricia Vierra</li></ul>		
 			<h2>Events</h2>		
