@@ -9,7 +9,7 @@ published: true
 post_date: 2020-06-16 00:34:23
 ---
 <h1>News & Events</h1>		
-		<h3 style="text-align: center;">Board Meeting Minutes</h3>		
+		<h2 style="text-align: center;">Board Meeting Minutes</h2>		
 					<ul>
 							<li >
 					<a href="http://dukhnitskiy.codes/wp-content/uploads/2020/07/WAEYC-Board-Minutes-April-2020.pdf" target="_blank" rel="noopener noreferrer">						
@@ -27,4 +27,4 @@ post_date: 2020-06-16 00:34:23
 											</a>
 									</li>
 						</ul>
-		<h3 style="text-align: center;">Events</h3>[MEC id="590"]
+		<h2 style="text-align: center;">Events</h2>[MEC id="590"]
