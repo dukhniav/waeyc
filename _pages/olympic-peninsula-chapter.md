@@ -15,6 +15,7 @@ post_date: 2020-05-14 02:29:56
 <li id="menu-item-384"><a href="http://dukhnitskiy.codes/chapters/pacific-northwest-chapter/" class = "hfe-menu-item">Pacific Northwest Chapter</a></li>
 <li id="menu-item-382"><a href="http://dukhnitskiy.codes/chapters/pierce-county-chapter/" class = "hfe-menu-item">Pierce County Chapter</a></li>
 </ul></nav>              
+			<h6>Connect with us</h6>		
 							<a href="mailto:kids98363@gmail.com" target="_blank" rel="noopener noreferrer">
 					Envelope
 									</a>
