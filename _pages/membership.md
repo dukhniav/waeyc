@@ -43,301 +43,163 @@ post_date: 2020-05-14 02:05:12
 		</a>
 			<h2>Membership categories at a glance
 </h2>		
-		    <table style="width: 100%;" cellspacing="5" cellpadding="5">
-        <thead>
-            <tr>
-                <th style="background-color: #fafafa;"></th>
-                <th style="background-color: #fafafa;">Entry $30</th>
-                <th style="background-color: #fafafa;">Standard $69</th>
-                <th style="background-color: #fafafa;">Premium $150</th>
-                <th style="background-color: #fafafa;">Family $35</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Digital articles from <em>YC</em> &amp; <em>TYC</em></td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="yes" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Online networking</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Local Affiliate membership</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>NAEYC Store discounts</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Discount insurance</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>NAEYC event discounts</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Retail discounts</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Access to <em>YC</em> digital archive</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Complimentary NAEYC books</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-                <td>
-                        <img
-                                src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/some.png"
-                                alt="Some" width="30" height="30" />
-                        1 book
-                </td>
-                <td>
-                        <img
-                                src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                                alt="Yes" width="30" height="30" />
-                        5 books
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Print subscription to <em>YC</em> or <em>TYC</em></td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-                <td>
-                        <img
-                                src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/some.png"
-                                alt="Some" width="30" height="30" />
-                        Either
-                </td>
-                <td>
-                        <img
-                                src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                                alt="Yes" width="30" height="30" />
-                        Both
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Online courses</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-                <td>
-                        <img
-                                src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/some.png"
-                                alt="Some" width="30" height="30" />
-                        1 course
-                </td>
-                <td>
-                        <img
-                                src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                                alt="Yes" width="30" height="30" />
-                        2 courses
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-            </tr>
-            <tr>
-                <td>Access to VIP events</td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png"
-                            alt="Yes" width="30" height="30" />
-                </td>
-                <td>
-                    <img
-                            src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png"
-                            alt="No" width="30" height="30" />
-                </td>
-            </tr>
-        </tbody>
-    </table><p><sub><em>Please note that Membership prices and benefits are subject to change at any time.</em></sub></p> 		
+		<table style="width: 100%;" cellspacing="5" cellpadding="5">
+<thead>
+<tr>
+<th style="background-color: #fafafa;"></th>
+<th style="background-color: #fafafa;">Entry $30</th>
+<th style="background-color: #fafafa;">Standard $69</th>
+<th style="background-color: #fafafa;">Premium $150</th>
+<th style="background-color: #fafafa;">Family $35</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Digital articles from <em>YC</em> &amp; <em>TYC</em></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="yes" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Online networking</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Local Affiliate membership</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>NAEYC Store discounts</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Discount insurance</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>NAEYC event discounts</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Retail discounts</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Access to <em>YC</em> digital archive</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Complimentary NAEYC books</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/some.png" alt="Some" width="30" height="30" />
+1 book
+</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" />
+5 books
+</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Print subscription to <em>YC</em> or <em>TYC</em></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/some.png" alt="Some" width="30" height="30" />
+Either
+</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" />
+Both
+</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Online courses</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/some.png" alt="Some" width="30" height="30" />
+1 course
+</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" />
+2 courses
+</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>Access to VIP events</td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/all.png" alt="Yes" width="30" height="30" /></td>
+<td>
+<img src="https://www.naeyc.org/sites/default/files/globally-shared/Images/get-involved/membership/none.png" alt="No" width="30" height="30" /></td>
+</tr>
+</tbody>
+</table><p><sub><em>Please note that Membership prices and benefits are subject to change at any time.</em></sub></p> 		
 			<h2>Affiliate Groups
 </h2>		
 		<p>As an added benefit, ALL members receive membership in their local or regional affiliate group. Your affiliate gives you access to local conferences, professional development opportunities, local networking options, and more! </p>		
