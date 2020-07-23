@@ -32,7 +32,7 @@ post_date: 2020-07-23 00:52:10
 	    		      		<li>                                                        	      		 Program</li>
 	      		      		<li>                                                        	      		 Registration</li>
 	      	    		</ul>
-		      												<p style="text-align: center;">Tuesday. October 20, 2020</p>
+		      												<p style="text-align: center;">Tuesday, October 20, 2020</p>
 <table style="width: 100%;">
     <thead>
         <tr>
