@@ -26,4 +26,4 @@ post_date: 2020-07-23 00:52:10
 		<a href="emailto:amandacardwell@frontier.com" data-text="Go!">
 				Email
 		</a>
-		<p>If you are interested in partnering with WAEYC on this event – we would love to hear from you! Please contact our event coordinator to see how you can be a part of this one of a kind event.</p>
+		<p>If you are interested in partnering with WAEYC on this event – we would love to hear from you! Please contact our event coordinator to see how you can be a part of this one of a kind event.</p>[awsmteam id="904"]
