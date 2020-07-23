@@ -11,7 +11,7 @@ post_date: 2020-07-23 00:52:10
 ---
 <h1><a href="">WAEYC Virtual Conference</a></h1>		
 			<h6>Together We Are Better</h6>		
-			<h2>October 20-24, 2020</h2>		
+			<h3>October 20-24, 2020</h3>		
 			<h6>To submit a proposal to present, apply here:</h6>		
 		<a href="https://www.eventbrite.com/e/2020-waeyc-call-for-proposals-tickets-108884454334" data-text="Register">
 				Register
