@@ -136,5 +136,5 @@ post_date: 2020-07-23 00:52:10
     </tbody>
 </table>							    			
 		      												<p style="font-weight: 400;">Registration for this event is currently closed. Registration will be open in August.</p><p style="font-weight: 400;">The cost to attend will be $10 per session – session sizes are limited so register early!</p><p style="font-weight: 400;">**Please note all NAYEC/WAEYC members receive a 10% discount.</p>							    			
-		      												<h4>The 2019 Call For Proposals is now CLOSED</h4><p>Please email Amanda Cardwell to be added to our email list for any questions.  </p>							    			
+		      												<h4>The 2019 Call For Proposals is now CLOSED</h4><p>Please email <a href="#awsm-member-904-901">Amanda Cardwell</a> to be added to our email list for any questions.</p>							    			
 		[awsmteam id="904"]<p>Thank you to our conference partners with spots below for images of logos from partners</p>
