@@ -12,6 +12,19 @@ post_date: 2020-07-23 00:52:10
 <h1><a href="">WAEYC Virtual Conference</a></h1>		
 			<h6>Together We Are Better</h6>		
 			<h3>October 20-24, 2020</h3>		
+			<h6>To submit a proposal to present, apply here:</h6>		
+		<a href="https://www.eventbrite.com/e/2020-waeyc-call-for-proposals-tickets-108884454334" data-text="Register">
+				Register
+		</a>
+		<a href="emailto:amandacardwell@frontier.com" data-text="Go!">
+				Email
+		</a>
+		<a href="https://www.eventbrite.com/e/2020-waeyc-call-for-proposals-tickets-108884454334" data-text="Register">
+				Register
+		</a>
+		<a href="emailto:amandacardwell@frontier.com" data-text="Go!">
+				Email
+		</a>
 				<h4>If you are interested in partnering with WAEYC on this event – we would love to hear from you!</h4>
 																						<p><p> Please contanct our event coordinator to see how you can be a part of this one of a kind event.</p></p>
 		  <ul>
