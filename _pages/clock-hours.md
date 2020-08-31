@@ -5,7 +5,7 @@ author: dukhniav
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dukhnitskiy.codes/about-us/clock-hours/
+  http://www.waeyc.org/about-us/clock-hours/
 published: true
 post_date: 2020-07-10 04:13:03
 ---
