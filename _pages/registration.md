@@ -7,7 +7,7 @@ layout: page
 permalink: >
   http://www.waeyc.org/virtual-conference/registration/
 published: true
-post_date: 2020-08-31 04:54:40
+post_date: 2020-07-23 00:48:21
 ---
 <h1>Registration</h1>		
 				<h4>2019 Online Registration is CLOSED</h4>
