@@ -21,7 +21,7 @@ post_date: 2020-05-14 01:10:22
 			<h2>Support NAEYC
 </h2>		
 		<p> </p><p style="text-align: center;">Donate to help NAEYC advance a strong and dynamic early childhood profession and connect educators to cutting-edge resources.</p><p> </p>		
-		<a href="/about-us/donate" data-text="Go!">
+		<a href="https://www.naeyc.org/about-us/donate" data-text="Go!">
 				Make a Donation
 		</a>
 			<h2>Find Your Affiliate
