@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-05-14 02:04:01
 ---
-<h1 style="text-align: center;">Governing Board Application</h1>		
+<h1>Governing Board Application</h1>		
 			<h2>Greetings from WAEYC</h2>		
 		<p data-key="37"> </p><p data-key="37">It’s an exciting time to be involved! Early learning professionals and the field are facing difficult challenges as well as new opportunities. WAEYC is prioritizing and strengthening our services, making structural and staffing changes, and solidifying key alliances with our partners. Thank you for considering a leadership role! Whether through board service or in other ways, we appreciate—and we depend on—the involvement and willingness to serve from individuals like you. Thank you!</p><p data-key="39">We hope you consider your nomination to be an opportunity and an honor. We also want to be candid about the expectations and level of commitment involved in board service. The WAEYC Governing Board is a working board, one that not only gives input and makes decisions but also one that carries out or supervises fellow volunteers carrying out the work of/for the local chapters, state affiliate, and the national association. We meet monthly by phone (90 minutes) and meet once a year for an all-day retreat to set direction and goals. We also meet at the annual WAEYC conference. WAEYC covers travel costs to that meeting. In between monthly board meetings, there are committees and work team meetings. Most of our work is through email and phone calls-we share documents that we work on as a team. </p>		
 			<h2>Application</h2>		
