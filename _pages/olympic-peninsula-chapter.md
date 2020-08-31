@@ -5,7 +5,7 @@ author: dukhniav
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dukhnitskiy.codes/chapters/olympic-peninsula-chapter/
+  http://www.waeyc.org/chapters/olympic-peninsula-chapter/
 published: true
 post_date: 2020-05-14 02:29:56
 ---
