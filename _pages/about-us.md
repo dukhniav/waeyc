@@ -8,7 +8,8 @@ permalink: http://www.waeyc.org/about-us/
 published: true
 post_date: 2020-05-14 01:13:58
 ---
-<h1 style="text-align: center;">About Us</h1><h4 style="text-align: left;"><strong>WAEYC is:</strong></h4><p>Dedicated to providing quality professional development opportunities that are affordable.</p><p>An advocate for equitable compensation for staff in our profession.</p><p>Committed to providing and supporting education that is inclusive, culturally relevant and promotes anti-bias.</p><p>A voice for high quality care, education and support for all young children and their families by participating in legislative action and public awareness.</p><p>An active participant and leader, coordinating efforts with other professionals and community groups.</p>		
+<h1>About Us</h1>		
+		<h4 style="text-align: left;"><strong>WAEYC is:</strong></h4><p>Dedicated to providing quality professional development opportunities that are affordable.</p><p>An advocate for equitable compensation for staff in our profession.</p><p>Committed to providing and supporting education that is inclusive, culturally relevant and promotes anti-bias.</p><p>A voice for high quality care, education and support for all young children and their families by participating in legislative action and public awareness.</p><p>An active participant and leader, coordinating efforts with other professionals and community groups.</p>		
 				<h4>
 				</h4>
 		<p style="text-align: center;" align="center">Promoting Quality</p><p style="text-align: center;">Research, publish and disseminate information and thinking</p><p style="text-align: center;">Concept papers on Quality, Professionalism &amp; Sustainability, Policy development and advocacy, Conferences, Website, newsletter, and other publications, Conversation convening</p>		
