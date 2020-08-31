@@ -11,17 +11,17 @@ post_date: 2020-06-16 00:34:23
 <h1>News & Events</h1>		
 		<h2 style="text-align: center;">Board Meeting Minutes</h2>		
 					<ul>
-							<li >
+							<li>
 					<a href="http://dukhnitskiy.codes/wp-content/uploads/2020/07/WAEYC-Board-Minutes-April-2020.pdf" target="_blank" rel="noopener noreferrer">						
 										April 2020
 											</a>
 									</li>
-								<li >
+								<li>
 					<a href="http://dukhnitskiy.codes/wp-content/uploads/2020/07/WAEYC-Board-Meeting-Minutes-May-2020.pdf" target="_blank" rel="noopener noreferrer">						
 										May 2020
 											</a>
 									</li>
-								<li >
+								<li>
 					<a href="http://dukhnitskiy.codes/wp-content/uploads/2020/07/WAEYC-Board-Meeting-Minutes-June-2020.pdf" target="_blank" rel="noopener noreferrer">						
 										June 2020
 											</a>
