@@ -4,7 +4,7 @@ post_title: 'News &#038; Events'
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: http://dukhnitskiy.codes/news-events/
+permalink: http://www.waeyc.org/news-events/
 published: true
 post_date: 2020-06-16 00:34:23
 ---
