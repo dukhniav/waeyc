@@ -4,7 +4,7 @@ post_title: Chapters
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: http://dukhnitskiy.codes/chapters/
+permalink: http://www.waeyc.org/chapters/
 published: true
 post_date: 2020-05-14 02:04:51
 ---
