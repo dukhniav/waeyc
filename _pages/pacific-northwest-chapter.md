@@ -5,7 +5,7 @@ author: dukhniav
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dukhnitskiy.codes/chapters/pacific-northwest-chapter/
+  http://www.waeyc.org/chapters/pacific-northwest-chapter/
 published: true
 post_date: 2020-05-14 02:29:56
 ---
