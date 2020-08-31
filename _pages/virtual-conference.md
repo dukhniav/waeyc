@@ -4,8 +4,7 @@ post_title: Virtual Conference
 author: dukhniav
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dukhnitskiy.codes/virtual-conference/
+permalink: http://www.waeyc.org/virtual-conference/
 published: true
 post_date: 2020-07-23 00:52:10
 ---
