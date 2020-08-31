@@ -1,13 +1,13 @@
 ---
-ID: 56
+ID: 892
 post_title: Registration
 author: dukhniav
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dukhnitskiy.codes/conference/registration/
+  http://www.waeyc.org/virtual-conference/registration/
 published: true
-post_date: 2020-05-14 02:02:54
+post_date: 2020-08-31 04:54:40
 ---
 <h1>Registration</h1>		
 				<h4>2019 Online Registration is CLOSED</h4>
