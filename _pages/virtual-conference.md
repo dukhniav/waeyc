@@ -35,7 +35,7 @@ post_date: 2020-07-23 00:52:10
 	      		      		<li>                                                        	      		 Registration</li>
 	      		      		<li>                                                        	      		 Presenters</li>
 	      	    		</ul>
-		      												<p style="text-align: center;">Tuesday, October 20, 2020</p>
+		      												<p style="text-align: center;"><b>Tuesday, October 20, 2020</b></p>
 <table style="width: 100%;">
 <thead>
 <tr>
