@@ -39,8 +39,8 @@ post_date: 2020-07-23 00:52:10
 <table style="width: 100%;">
 <thead>
 <tr>
-<th style="background-color: #7dcef1; width: 50%;">Time</th>
-<th style="background-color: #7dcef1; width: 50%;">Description</th>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
 </tr>
 </thead>
 <tbody>
