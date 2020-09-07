@@ -80,7 +80,7 @@ post_date: 2020-07-23 00:52:10
             <td>1-2:30pm</td>
             <td><a>
                 Talking about Feelings and Friendship: Supporting Young
-                Children’s Social-Emotional Development in Preschool</a></td>
+                Children’s Social-Emotional Development in Preschool, Jennifer Cunningham</a></td>
         </tr>
         <tr>
             <td>6:30:8:00pm</td>
