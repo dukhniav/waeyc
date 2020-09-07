@@ -29,7 +29,7 @@ post_date: 2020-07-23 00:52:10
 			<h2>Registration</h2>		
 		<p style="font-weight: 400;">Registration will be processed on a first come first serve basis until the capacity of each session is reached. Register early for the best selection and pricing. Early Bird Deadline is October 5th - after this date prices increase.</p>		
 			<h2>Pricing</h2>		
-		<p>WAEYC Member</p><p>$10 per session /per registered attendee</p><p>$120 all access pass/ per registered attendee (save $40)</p><p>Non-Member</p><p>$15 per session /per registered attendee</p><p>$160 all access pass/ per registered attendee (save $80)</p><p>Organization Discounts</p><p>$600 gets all access for 10-19 staff</p><p>$900 gets all access for 20+ staff</p><p>note: all attendees must be from the same organization</p>		
+		[supsystic-price-table id=9]		
 		  <ul>
 	    		      		<li>                                                        	      		 Program</li>
 	      		      		<li>                                                        	      		 Registration</li>
