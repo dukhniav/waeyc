@@ -46,7 +46,7 @@ post_date: 2020-07-23 00:52:10
 <tbody>
 <tr>
 <td>10:00am-12:00pm</td>
-<td><a>Supporting Challenging Behaviors, Michelle Duhon</a></td> 
+<td><a>Supporting Challenging Behaviors, Michelle Duhon</a></td>
 </tr>
 <tr>
 <td>1:00-2:30pm</td>
