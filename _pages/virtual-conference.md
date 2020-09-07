@@ -27,7 +27,7 @@ post_date: 2020-07-23 00:52:10
 				<h4>If you are interested in partnering with WAEYC on this event – we would love to hear from you!</h4>
 																						<p><p> Please contanct our event coordinator to see how you can be a part of this one of a kind event.</p></p>
 			<h2>Registration</h2>		
-		<p style="font-weight: 400;">Registration for this event is currently closed. Registration will be open in August.</p><p style="font-weight: 400;">The cost to attend will be $10 per session – session sizes are limited so register early!</p><p style="font-weight: 400;">**Please note all NAYEC/WAEYC members receive a 10% discount.</p>		
+		<p style="font-weight: 400;">Registration will be processed on a first come first serve basis until the capacity of each session is reached. Register early for the best selection and pricing. Early Bird Deadline is October 5th - after this date prices increase.</p>		
 			<h2>Program</h2>		
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 		  <ul>
