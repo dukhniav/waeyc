@@ -41,54 +41,54 @@ post_date: 2020-07-23 00:52:10
 				visibility: hidden;
 			}
 		</style>
-			<style type="text/css">#ptsBlock_947596 {
+			<style type="text/css">#ptsBlock_514024 {
     width: 100%;
   }
-#ptsBlock_947596 .ptsCol {
+#ptsBlock_514024 .ptsCol {
             width: 33.333333333333%;
       }
-#ptsBlock_947596 .ptsTableDescCol {
+#ptsBlock_514024 .ptsTableDescCol {
       display: none;
   }
-#ptsBlock_947596 .ptsCol.ptsTableDescCol .ptsColFooter {
+#ptsBlock_514024 .ptsCol.ptsTableDescCol .ptsColFooter {
 	visibility: hidden;
 }
-#ptsBlock_947596 p {
+#ptsBlock_514024 p {
   margin: 0;
 }
 /*Animations*/
-#ptsBlock_947596 .ptsCol .ptsTableElementContent,
-#ptsBlock_947596 .ptsCol .ptsTableElementContent span {
+#ptsBlock_514024 .ptsCol .ptsTableElementContent,
+#ptsBlock_514024 .ptsCol .ptsTableElementContent span {
   transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
 }
-#ptsBlock_947596 .ptsCol.hover .ptsTableElementContent {
+#ptsBlock_514024 .ptsCol.hover .ptsTableElementContent {
   z-index: 101;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-#ptsBlock_947596 .ptsCol.hover .ptsTableElementContent {
+#ptsBlock_514024 .ptsCol.hover .ptsTableElementContent {
   z-index: 101;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 /** Template Style **/
-#ptsBlock_947596 .ptsTableElementContent {
+#ptsBlock_514024 .ptsTableElementContent {
     background: #fff;
     border: solid 1px #f0f0f0;
     box-shadow: 0 0 20px -2px rgba(0,0,0,0);
     position: relative;
 }
-#ptsBlock_947596 .ptsColHeader,
-#ptsBlock_947596 .ptsColDesc {
+#ptsBlock_514024 .ptsColHeader,
+#ptsBlock_514024 .ptsColDesc {
     background: #fafafa;
     padding: 40px 5px 30px 5px;
   	position: relative;
 }
-#ptsBlock_947596 .ptsColDesc:before {
+#ptsBlock_514024 .ptsColDesc:before {
 	content: '';
   	position: absolute;
   	left: 25%;
@@ -97,37 +97,37 @@ post_date: 2020-07-23 00:52:10
   	height: 1px;
   	width: 50%;
 }
-#ptsBlock_947596 .ptsColHeader .ptsIcon i {
+#ptsBlock_514024 .ptsColHeader .ptsIcon i {
 	font-size: 55px;
   	color: #333;
 }
-#ptsBlock_947596 .ptsColHeader span,
-#ptsBlock_947596 .ptsColHeader p {
+#ptsBlock_514024 .ptsColHeader span,
+#ptsBlock_514024 .ptsColHeader p {
     font-size: 28px;
     color: #333;
 }
-#ptsBlock_947596 .ptsColDesc {
+#ptsBlock_514024 .ptsColDesc {
     padding: 0 5px 20px 5px;
 }
-#ptsBlock_947596 .ptsRows {
+#ptsBlock_514024 .ptsRows {
 	padding-top: 20px;
 }
-#ptsBlock_947596 .ptsColDesc span,
-#ptsBlock_947596 .ptsColDesc p {
+#ptsBlock_514024 .ptsColDesc span,
+#ptsBlock_514024 .ptsColDesc p {
     font-size: 24px;
   	color: #333;
 }
-#ptsBlock_947596 .ptsRows .ptsCell {
+#ptsBlock_514024 .ptsRows .ptsCell {
   color: #333;
 }
-#ptsBlock_947596 .ptsRows .ptsCell span,
-#ptsBlock_947596 .ptsRows .ptsCell p {
+#ptsBlock_514024 .ptsRows .ptsCell span,
+#ptsBlock_514024 .ptsRows .ptsCell p {
   font-size: 14px;
 }
-#ptsBlock_947596 .ptsColFooter {
+#ptsBlock_514024 .ptsColFooter {
   padding: 20px 0 20px 0;
 }
-#ptsBlock_947596 .ptsColFooter .ptsActBtn a {
+#ptsBlock_514024 .ptsColFooter .ptsActBtn a {
     background-color: #fafafa;
     text-decoration: blink;
  	color: #fff;
@@ -137,11 +137,11 @@ post_date: 2020-07-23 00:52:10
     position: relative;
   	text-align: center;
 }
-#ptsBlock_947596 .ptsColFooter .ptsActBtn {
+#ptsBlock_514024 .ptsColFooter .ptsActBtn {
 	margin: 10px 0;
   	text-align: center;
 }
-#ptsBlock_947596 .ptsColFooter .ptsActBtn a:before {
+#ptsBlock_514024 .ptsColFooter .ptsActBtn a:before {
     content: '';
     position: absolute;
     top: 0;
@@ -152,7 +152,7 @@ post_date: 2020-07-23 00:52:10
     opacity: 0;
     transition: all .5s ease-out;
 }
-#ptsBlock_947596 .ptsColFooter .ptsActBtn a:hover:before {
+#ptsBlock_514024 .ptsColFooter .ptsActBtn a:hover:before {
     opacity: .3;
 }</style>
 		<!-- Start Test Element -->
@@ -169,7 +169,7 @@ post_date: 2020-07-23 00:52:10
 						<p>Organization Discounts&nbsp;</p>
 							<p>$600 gets all-access for 10-19 staff</p><p> <br></p><p>$900 gets all-access for 20+ staff</p><p><br data-mce-bogus="1"></p><p>note: all attendees must be from the same organization<br></p>
 		<!-- End Test Element -->
-</p><p style="text-align: center;"><strong>Cancellation Policy</strong></p><p>We will not be accepting cancellations. If you wish to transfer your registration to another attendee you may do so up until the first day of the conference. All sessions will be recorded (minus tours) and will be available to those who purchase the all-access pass for up to one year.</p><p><strong>Continuing Education</strong></p><p>STARS Credit is available to those who register and provide a valid STARS ID number.</p><p>Clock Hours will be available for a minimal fee and can be purchased before the end of the event and is based on the total number of hours in attendance.</p><p>Participants will be required to attend live session streaming to qualify for STARS or Clock Hours</p>							    			
+</p><p style="text-align: center;"><strong>Cancellation Policy</strong></p><p>We will not be accepting cancellations. If you wish to transfer your registration to another attendee you may do so up until the first day of the conference. All sessions will be recorded (minus tours) and will be available to those who purchase the all-access pass for up to one year.</p><p style="text-align: center;"><strong>Continuing Education</strong></p><p>STARS Credit is available to those who register and provide a valid STARS ID number.</p><p>Clock Hours will be available for a minimal fee and can be purchased before the end of the event and is based on the total number of hours in attendance.</p><p>Participants will be required to attend live session streaming to qualify for STARS or Clock Hours</p>							    			
 		      												<h4>The 2019 Call For Proposals is now CLOSED</h4>
 <section
   data-id="96986f1"
