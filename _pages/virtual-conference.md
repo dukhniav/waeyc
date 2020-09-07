@@ -73,20 +73,20 @@ post_date: 2020-07-23 00:52:10
     <tbody>
         <tr>
             <td>10:00am-12:00pm</td>
-            <td>First Responders to Challenging Behavior and Stress:
-                Keeping Ourselves Healthy, Steve Erwin</td>
+            <td><a>First Responders to Challenging Behavior and Stress:
+                Keeping Ourselves Healthy, Steve Erwin</a></td>
         </tr>
         <tr>
             <td>1-2:30pm</td>
-            <td>
+            <td><a>
                 Talking about Feelings and Friendship: Supporting Young
-                Children’s Social-Emotional Development in Preschool</td>
+                Children’s Social-Emotional Development in Preschool</a></td>
         </tr>
         <tr>
             <td>6:30:8:00pm</td>
-            <td>
+            <td><a>
                 TBD, Hilary Martinez
-            </td>
+            </a></td>
         </tr>
     </tbody>
 </table>
@@ -101,25 +101,25 @@ post_date: 2020-07-23 00:52:10
     <tbody>
         <tr>
             <td>9:30am-10:30am</td>
-            <td>	
+            <td><a>
                 Hilltop Virtual Tour, Hiltop Children's Center
-            </td>
+            </a></td>
         </tr>
         <tr>
             <td>10:00am-12pm & 1:30-3:30pm</td>
-            <td>Early childhood teacher prep council meeting</td>
+            <td><a>Early childhood teacher prep council meeting</a></td>
         </tr>
         <tr>
             <td>11:30am-12:30pm</td>
-            <td>Program panel – operating during a pandemic, Brenda Boyd</td>
+            <td><a>Program panel – operating during a pandemic, Brenda Boyd</a></td>
         </tr>
         <tr>
             <td>1:30-2:30pm</td>
-            <td>Nap Cast, Mike Browne and Nick Terrones</td>
+            <td><a>Nap Cast, Mike Browne and Nick Terrones</a></td>
         </tr>
         <tr>
             <td>6:30-8:00pm</td>
-            <td>Choosing to Advance Social Justice with Young Children, Carolyn Brennan and Miriam Packard</td>
+            <td><a>Choosing to Advance Social Justice with Young Children, Carolyn Brennan and Miriam Packard</a></td>
         </tr>
     </tbody>
 </table>
@@ -134,19 +134,19 @@ post_date: 2020-07-23 00:52:10
     <tbody>
         <tr>
             <td>10:00-11:00am</td>
-            <td>WWU Virtual Tour, WWU</td>
+            <td><a>WWU Virtual Tour, WWU</a></td>
         </tr>
         <tr>
             <td>11:30am-12:30pm</td>
-            <td>WAEYC Annual Meeting, WAEYC</td>
+            <td><a>WAEYC Annual Meeting, WAEYC</a></td>
         </tr>
         <tr>
             <td>1:00-2:30pm</td>
-            <td>A New Normal – Being the Manager Your Team Needs in Extraordinary Times, Miriam Dressler</td>
+            <td><a>A New Normal – Being the Manager Your Team Needs in Extraordinary Times, Miriam Dressler</a></td>
         </tr>
         <tr>
             <td>6:30-8:00pm</td>
-            <td>Relationship-Based Approaches to Infant-Toddler Program and Family Partnerships, Marilyn Chu</td>
+            <td><a>Relationship-Based Approaches to Infant-Toddler Program and Family Partnerships, Marilyn Chu</a></td>
         </tr>
     </tbody>
 </table>
@@ -161,11 +161,11 @@ post_date: 2020-07-23 00:52:10
     <tbody>
         <tr>
             <td>9:00-10:30am</td>
-            <td>Keynote: Talking to Youth About Heated Topics, Rosetta Lee</td>
+            <td><a>Keynote: Talking to Youth About Heated Topics, Rosetta Lee</a></td>
         </tr>
         <tr>
             <td>12:30-2:30pm</td>
-            <td>Preschool in the Park: Using Public Spaces to Cultivate Curious, Compassionate Kids - Rachel Franz</td>
+            <td><a>Preschool in the Park: Using Public Spaces to Cultivate Curious, Compassionate Kids - Rachel Franz</a></td>
         </tr>
         <tr>
             <td>3:00-4:00pm</td>
