@@ -50,11 +50,11 @@ post_date: 2020-07-23 00:52:10
 </tr>
 <tr>
 <td>1:00-2:30pm</td>
-<td>Professional Development and Coaching, Ariane Gauvreau</td>
+<td><a?Professional Development and Coaching, Ariane Gauvreau</a></td>
 </tr>
 <tr>
 <td>6:00-8:00pm</td>
-<td>Empoderamiento, Resilliencia y Colaboración: Experiencias del interinato Educativo durante el COVID 19, Jessica Ferreras Stone</td>
+<td><a>Empoderamiento, Resilliencia y Colaboración: Experiencias del interinato Educativo durante el COVID 19, Jessica Ferreras Stone</a></td>
 </tr>
 </tbody>
 </table>
