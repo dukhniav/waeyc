@@ -8,7 +8,7 @@ permalink: http://www.waeyc.org/virtual-conference/
 published: true
 post_date: 2020-07-23 00:52:10
 ---
-<h1><a href="">WAEYC Virtual Conference</a></h1>
+<h1><a>WAEYC Virtual Conference</a></h1>
 <h6>Together We Are Better</h6>
 <h3>October 20-24, 2020</h3>
 <h6>To submit a proposal to present, apply here:</h6>
@@ -25,61 +25,56 @@ Register
 Email
 </a>
 <h4>If you are interested in partnering with WAEYC on this event – we would love to hear from you!</h4>
-&nbsp;Please contanct our event coordinator to see how you can be a part of this one of a kind event.
+Please contanct our event coordinator to see how you can be a part of this one of a kind event.
 <ul>
- 	<li>                                                        	      		 Program</li>
- 	<li>                                                        	      		 Registration</li>
- 	<li>                                                        	      		 Presenters</li>
+ 	<li>Program</li>
+ 	<li>Registration</li>
+ 	<li>Presenters</li>
 </ul>
-<p style="text-align: center">* Click on description to see event details</p>
-<p style="text-align: center"><b>Tuesday, October 20, 2020</b></p>
+<p style="text-align: center;">* Click on description to see event details</p>
+<p style="text-align: center;"><b>Tuesday, October 20, 2020</b></p>
 
-<table style="width: 100%">
+<table style="width: 100%;">
 <thead>
 <tr>
-<th style="background-color: #7dcef1; width: 30%">Time</th>
-<th style="background-color: #7dcef1; width: 70%">Description</th>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>10:00am-12:00pm</td>
-<td>
-        <a>Supporting Challenging Behaviors, Michelle Duhon</a></td>
+<td><a>Supporting Challenging Behaviors, Michelle Duhon</a></td>
 </tr>
 <tr>
 <td>1:00-2:30pm</td>
-<td>
-        <a>Professional Development and Coaching, Ariane Gauvreau</a></td>
+<td><a>Professional Development and Coaching, Ariane Gauvreau</a></td>
 </tr>
 <tr>
 <td>6:00-8:00pm</td>
-<td>
-        <a>Empoderamiento, Resilliencia y Colaboración: Experiencias del
+<td><a>Empoderamiento, Resilliencia y Colaboración: Experiencias del
 interinato Educativo durante el COVID 19, Jessica Ferreras Stone</a></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center"><b>Wednesday, October 21, 2020</b></p>
+<p style="text-align: center;"><b>Wednesday, October 21, 2020</b></p>
 
-<table style="width: 100%" cellspacing="5" cellpadding="5">
+<table style="width: 100%;" cellspacing="5" cellpadding="5">
 <thead>
 <tr>
-<th style="background-color: #7dcef1; width: 30%">Time</th>
-<th style="background-color: #7dcef1; width: 70%">Description</th>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>10:00am-12:00pm</td>
-<td>
-        <a>First Responders to Challenging Behavior and Stress: Keeping
+<td><a>First Responders to Challenging Behavior and Stress: Keeping
 Ourselves Healthy, Steve Erwin</a></td>
 </tr>
 <tr>
 <td>1:00-2:30pm</td>
-<td>
-        <a>
+<td><a>
 Talking about Feelings and Friendship: Supporting Young Children’s
 Social-Emotional Development in Preschool, Jennifer Cunningham</a></td>
 </tr>
@@ -89,51 +84,46 @@ Social-Emotional Development in Preschool, Jennifer Cunningham</a></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center"><b>Thursday, October 22, 2020</b></p>
+<p style="text-align: center;"><b>Thursday, October 22, 2020</b></p>
 
-<table style="width: 100%" cellspacing="5" cellpadding="5">
+<table style="width: 100%;" cellspacing="5" cellpadding="5">
 <thead>
 <tr>
-<th style="background-color: #7dcef1; width: 30%">Time</th>
-<th style="background-color: #7dcef1; width: 70%">Description</th>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>9:30am-10:30am</td>
-<td>
-        <a> Hilltop Virtual Tour, Hiltop Children's Center </a></td>
+<td><a> Hilltop Virtual Tour, Hiltop Children's Center </a></td>
 </tr>
 <tr>
 <td>10:00am-12pm &amp; 1:30-3:30pm</td>
-<td>
-        <a>Early childhood teacher prep council meeting</a></td>
+<td><a>Early childhood teacher prep council meeting</a></td>
 </tr>
 <tr>
 <td>11:30am-12:30pm</td>
-<td>
-        <a>Program panel – operating during a pandemic, Brenda Boyd</a></td>
+<td><a>Program panel – operating during a pandemic, Brenda Boyd</a></td>
 </tr>
 <tr>
 <td>1:30-2:30pm</td>
-<td>
-        <a>Nap Cast, Mike Browne and Nick Terrones</a></td>
+<td><a>Nap Cast, Mike Browne and Nick Terrones</a></td>
 </tr>
 <tr>
 <td>6:30-8:00pm</td>
-<td>
-        <a>Choosing to Advance Social Justice with Young Children, Carolyn
+<td><a>Choosing to Advance Social Justice with Young Children, Carolyn
 Brennan and Miriam Packard</a></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center"><b>Friday, October 23, 2020</b></p>
+<p style="text-align: center;"><b>Friday, October 23, 2020</b></p>
 
-<table style="width: 100%" cellspacing="5" cellpadding="5">
+<table style="width: 100%;" cellspacing="5" cellpadding="5">
 <thead>
 <tr>
-<th style="background-color: #7dcef1; width: 30%">Time</th>
-<th style="background-color: #7dcef1; width: 70%">Description</th>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
 </tr>
 </thead>
 <tbody>
@@ -147,32 +137,29 @@ Brennan and Miriam Packard</a></td>
 </tr>
 <tr>
 <td>1:00-2:30pm</td>
-<td>
-        <a>A New Normal – Being the Manager Your Team Needs in Extraordinary
+<td><a>A New Normal – Being the Manager Your Team Needs in Extraordinary
 Times, Miriam Dressler</a></td>
 </tr>
 <tr>
 <td>6:30-8:00pm</td>
-<td>
-        <a>Relationship-Based Approaches to Infant-Toddler Program and Family
+<td><a>Relationship-Based Approaches to Infant-Toddler Program and Family
 Partnerships, Marilyn Chu</a></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center"><b>Saturday, October 24, 2020</b></p>
+<p style="text-align: center;"><b>Saturday, October 24, 2020</b></p>
 
-<table style="width: 100%" cellspacing="5" cellpadding="5">
+<table style="width: 100%;" cellspacing="5" cellpadding="5">
 <thead>
 <tr>
-<th style="background-color: #7dcef1; width: 30%">Time</th>
-<th style="background-color: #7dcef1; width: 70%">Description</th>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>9:00-10:30am</td>
-<td>
-        <a>Keynote: Talking to Youth About Heated Topics, Rosetta Lee</a></td>
+<td><a>Keynote: Talking to Youth About Heated Topics, Rosetta Lee</a></td>
 </tr>
 <tr>
 <td>11:00-12:15pm</td>
@@ -180,29 +167,25 @@ Partnerships, Marilyn Chu</a></td>
 </tr>
 <tr>
 <td>1:00-3:00pm</td>
-<td>
-        <a>Preschool in the Park: Using Public Spaces to Cultivate Curious,
+<td><a>Preschool in the Park: Using Public Spaces to Cultivate Curious,
 Compassionate Kids - Rachel Franz</a></td>
 </tr>
 </tbody>
 </table>
-Registration will be processed on a first come first serve basis until the capacity of each session is reached. Register early for the best selection and pricing. Early Bird Deadline is October 5th - after this date prices increase.&nbsp;
+Registration will be processed on a first come first serve basis until the capacity of each session is reached. Register early for the best selection and pricing. Early Bird Deadline is October 5th - after this date prices increase.
 
-Register online at www.eventbrite.com/TBD
+Register online at <a href="https://waeyc-virtual2020.eventbrite.com">https://waeyc-virtual2020.eventbrite.com</a>
 
 **To register via paper or PO please do so by contacting the event coordinator.
 <p style="text-align: center;"><strong>Pricing</strong></p>
-<p style="font-weight: 400;">
-	<!-- Style to display all tables correct-->
+<p style="font-weight: 400;"><!-- Style to display all tables correct-->
 <!-- this block will be remove in frontend.tables.editor.block.base after init --></p>
-
 <style>
 			.ptsBlock {<br />
 				opacity: 0;<br />
 				visibility: hidden;<br />
 			}<br />
-		</style>
-<style type="text/css">#ptsBlock_114410 {<br />
+		</style> <style type="text/css">#ptsBlock_114410 {<br />
     width: 100%;<br />
   }<br />
 #ptsBlock_114410 .ptsCol {<br />
@@ -315,7 +298,9 @@ Register online at www.eventbrite.com/TBD
 }<br />
 #ptsBlock_114410 .ptsColFooter .ptsActBtn a:hover:before {<br />
     opacity: .3;<br />
-}</style>		<!-- Start Test Element -->
+}</style>
+
+<!-- Start Test Element -->
 
 PLAN - PRICE
 
@@ -325,8 +310,8 @@ text
 
 text
 
-<a target="_blank" href="https://supsystic.com/" style="font-size: 12px; background-color: #333;" rel="noopener noreferrer">READ MORE</a>
-<a target="_blank" href="https://supsystic.com/" style="font-size: 14px; background-color: #333;" rel="noopener noreferrer">BUY NOW</a>
+<a style="font-size: 12px; background-color: #333;" href="https://supsystic.com/" target="_blank" rel="noopener noreferrer">READ MORE</a>
+<a style="font-size: 14px; background-color: #333;" href="https://supsystic.com/" target="_blank" rel="noopener noreferrer">BUY NOW</a>
 
 WAEYC Member
 
@@ -340,13 +325,11 @@ $15 per session /per registered attendee
 
 $160 all-access pass/ per registered attendee (save $80)
 
-Organization Discounts&nbsp;
+Organization Discounts
 
 $600 gets all-access for 10-19 staff
 
 $900 gets all-access for 20+ staff
-
-<br data-mce-bogus="1">
 
 note: all attendees must be from the same organization
 
