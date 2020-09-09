@@ -31,7 +31,183 @@ post_date: 2020-07-23 00:52:10
 	      		      		<li>                                                        	      		 Registration</li>
 	      		      		<li>                                                        	      		 Presenters</li>
 	      	    		</ul>
-		      												<p style="text-align: center;">* Click on description to see event details</p><p style="text-align: center;"><b>Tuesday, October 20, 2020</b></p><table style="width: 100%;"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>10:00am-12:00pm</td><td><a>Supporting Challenging Behaviors,<br />Michelle Duhon</a></td></tr><tr><td>1:00-2:30pm</td><td><a>Professional Development and<br />Coaching, Ariane Gauvreau</a></td></tr><tr><td>6:00-8:00pm</td><td><a>Empoderamiento, Resilliencia y<br />Colaboración: Experiencias del interinato Educativo durante<br />el COVID 19, Jessica Ferreras Stone</a></td></tr></tbody></table><p style="text-align: center;"><b>Wednesday, October 21, 2020</b></p><table style="width: 100%;" cellspacing="5" cellpadding="5"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>10:00am-12:00pm</td><td><a>First Responders to Challenging Behavior and Stress:<br />Keeping Ourselves Healthy, Steve Erwin</a></td></tr><tr><td>1-2:30pm</td><td><a><br />Talking about Feelings and Friendship: Supporting Young<br />Children’s Social-Emotional Development in Preschool, Jennifer Cunningham</a></td></tr><tr><td>6:30:8:00pm</td><td><a><br />TBD, Hilary Martinez<br /></a></td></tr></tbody></table><p style="text-align: center;"><b>Thursday, October 22, 2020</b></p><table style="width: 100%;" cellspacing="5" cellpadding="5"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>9:30am-10:30am</td><td><a><br />Hilltop Virtual Tour, Hiltop Children's Center<br /></a></td></tr><tr><td>10:00am-12pm &amp; 1:30-3:30pm</td><td><a>Early childhood teacher prep council meeting</a></td></tr><tr><td>11:30am-12:30pm</td><td><a>Program panel – operating during a pandemic, Brenda Boyd</a></td></tr><tr><td>1:30-2:30pm</td><td><a>Nap Cast, Mike Browne and Nick Terrones</a></td></tr><tr><td>6:30-8:00pm</td><td><a>Choosing to Advance Social Justice with Young Children, Carolyn Brennan and Miriam Packard</a></td></tr></tbody></table><p style="text-align: center;"><b>Friday, October 23, 2020</b></p><table style="width: 100%;" cellspacing="5" cellpadding="5"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>10:00-11:00am</td><td><a>WWU Virtual Tour, WWU</a></td></tr><tr><td>11:30am-12:30pm</td><td><a>WAEYC Annual Meeting, WAEYC</a></td></tr><tr><td>1:00-2:30pm</td><td><a>A New Normal – Being the Manager Your Team Needs in Extraordinary Times, Miriam Dressler</a></td></tr><tr><td>6:30-8:00pm</td><td><a>Relationship-Based Approaches to Infant-Toddler Program and Family Partnerships, Marilyn Chu</a></td></tr></tbody></table><p style="text-align: center;"><b>Saturday, October 24, 2020</b></p><table style="width: 100%;" cellspacing="5" cellpadding="5"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>9:00-10:30am</td><td><a>Keynote: Talking to Youth About Heated Topics, Rosetta Lee</a></td></tr><tr><td>12:30-2:30pm</td><td><a>Preschool in the Park: Using Public Spaces to Cultivate Curious, Compassionate Kids - Rachel Franz</a></td></tr><tr><td>3:00-4:00pm</td><td>Advocacy, TBD</td></tr></tbody></table>							    			
+		      												<p style="text-align: center">* Click on description to see event details</p>
+<p style="text-align: center"><b>Tuesday, October 20, 2020</b></p>
+<table style="width: 100%">
+  <thead>
+    <tr>
+      <th style="background-color: #7dcef1; width: 30%">Time</th>
+      <th style="background-color: #7dcef1; width: 70%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00am-12:00pm</td>
+      <td>
+        <a>Supporting Challenging Behaviors, Michelle Duhon</a>
+      </td>
+    </tr>
+    <tr>
+      <td>1:00-2:30pm</td>
+      <td>
+        <a>Professional Development and Coaching, Ariane Gauvreau</a>
+      </td>
+    </tr>
+    <tr>
+      <td>6:00-8:00pm</td>
+      <td>
+        <a
+          >Empoderamiento, Resilliencia y Colaboración: Experiencias del
+          interinato Educativo durante el COVID 19, Jessica Ferreras Stone</a
+        >
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center"><b>Wednesday, October 21, 2020</b></p>
+<table style="width: 100%" cellspacing="5" cellpadding="5">
+  <thead>
+    <tr>
+      <th style="background-color: #7dcef1; width: 30%">Time</th>
+      <th style="background-color: #7dcef1; width: 70%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00am-12:00pm</td>
+      <td>
+        <a
+          >First Responders to Challenging Behavior and Stress: Keeping
+          Ourselves Healthy, Steve Erwin</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td>1-2:30pm</td>
+      <td>
+        <a>
+          Talking about Feelings and Friendship: Supporting Young Children’s
+          Social-Emotional Development in Preschool, Jennifer Cunningham</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td>6:30:8:00pm</td>
+      <td><a> TBD, Hilary Martinez </a></td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center"><b>Thursday, October 22, 2020</b></p>
+<table style="width: 100%" cellspacing="5" cellpadding="5">
+  <thead>
+    <tr>
+      <th style="background-color: #7dcef1; width: 30%">Time</th>
+      <th style="background-color: #7dcef1; width: 70%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:30am-10:30am</td>
+      <td>
+        <a> Hilltop Virtual Tour, Hiltop Children's Center </a>
+      </td>
+    </tr>
+    <tr>
+      <td>10:00am-12pm &amp; 1:30-3:30pm</td>
+      <td>
+        <a>Early childhood teacher prep council meeting</a>
+      </td>
+    </tr>
+    <tr>
+      <td>11:30am-12:30pm</td>
+      <td>
+        <a>Program panel – operating during a pandemic, Brenda Boyd</a>
+      </td>
+    </tr>
+    <tr>
+      <td>1:30-2:30pm</td>
+      <td>
+        <a>Nap Cast, Mike Browne and Nick Terrones</a>
+      </td>
+    </tr>
+    <tr>
+      <td>6:30-8:00pm</td>
+      <td>
+        <a
+          >Choosing to Advance Social Justice with Young Children, Carolyn
+          Brennan and Miriam Packard</a
+        >
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center"><b>Friday, October 23, 2020</b></p>
+<table style="width: 100%" cellspacing="5" cellpadding="5">
+  <thead>
+    <tr>
+      <th style="background-color: #7dcef1; width: 30%">Time</th>
+      <th style="background-color: #7dcef1; width: 70%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00-11:00am</td>
+      <td><a>WWU Virtual Tour, WWU</a></td>
+    </tr>
+    <tr>
+      <td>11:30am-12:30pm</td>
+      <td><a>WAEYC Annual Meeting, WAEYC</a></td>
+    </tr>
+    <tr>
+      <td>1:00-2:30pm</td>
+      <td>
+        <a
+          >A New Normal – Being the Manager Your Team Needs in Extraordinary
+          Times, Miriam Dressler</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td>6:30-8:00pm</td>
+      <td>
+        <a
+          >Relationship-Based Approaches to Infant-Toddler Program and Family
+          Partnerships, Marilyn Chu</a
+        >
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center"><b>Saturday, October 24, 2020</b></p>
+<table style="width: 100%" cellspacing="5" cellpadding="5">
+  <thead>
+    <tr>
+      <th style="background-color: #7dcef1; width: 30%">Time</th>
+      <th style="background-color: #7dcef1; width: 70%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00-10:30am</td>
+      <td>
+        <a>Keynote: Talking to Youth About Heated Topics, Rosetta Lee</a>
+      </td>
+    </tr>
+    <tr>
+      <td>11:00-12:15pm</td>
+      <td><a>Child Care Advocacy, Ryan Pricco</a></td>
+    </tr>
+    <tr>
+      <td>1:00-3:00pm</td>
+      <td>
+        <a
+          >Preschool in the Park: Using Public Spaces to Cultivate Curious,
+          Compassionate Kids - Rachel Franz</a
+        >
+      </td>
+    </tr>
+  </tbody>
+</table>
 		      												<p>Registration will be processed on a first come first serve basis until the capacity of each session is reached. Register early for the best selection and pricing. Early Bird Deadline is October 5th - after this date prices increase. </p><p>Register online at www.eventbrite.com/TBD</p><p>**To register via paper or PO please do so by contacting the event coordinator.</p><p style="text-align: center;"><strong>Pricing</strong></p><p style="font-weight: 400;">
 	<!-- Style to display all tables correct-->
 	<!-- this block will be remove in frontend.tables.editor.block.base after init -->
@@ -41,54 +217,54 @@ post_date: 2020-07-23 00:52:10
 				visibility: hidden;
 			}
 		</style>
-			<style type="text/css">#ptsBlock_357267 {
+			<style type="text/css">#ptsBlock_769349 {
     width: 100%;
   }
-#ptsBlock_357267 .ptsCol {
+#ptsBlock_769349 .ptsCol {
             width: 33.333333333333%;
       }
-#ptsBlock_357267 .ptsTableDescCol {
+#ptsBlock_769349 .ptsTableDescCol {
       display: none;
   }
-#ptsBlock_357267 .ptsCol.ptsTableDescCol .ptsColFooter {
+#ptsBlock_769349 .ptsCol.ptsTableDescCol .ptsColFooter {
 	visibility: hidden;
 }
-#ptsBlock_357267 p {
+#ptsBlock_769349 p {
   margin: 0;
 }
 /*Animations*/
-#ptsBlock_357267 .ptsCol .ptsTableElementContent,
-#ptsBlock_357267 .ptsCol .ptsTableElementContent span {
+#ptsBlock_769349 .ptsCol .ptsTableElementContent,
+#ptsBlock_769349 .ptsCol .ptsTableElementContent span {
   transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
 }
-#ptsBlock_357267 .ptsCol.hover .ptsTableElementContent {
+#ptsBlock_769349 .ptsCol.hover .ptsTableElementContent {
   z-index: 101;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-#ptsBlock_357267 .ptsCol.hover .ptsTableElementContent {
+#ptsBlock_769349 .ptsCol.hover .ptsTableElementContent {
   z-index: 101;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 /** Template Style **/
-#ptsBlock_357267 .ptsTableElementContent {
+#ptsBlock_769349 .ptsTableElementContent {
     background: #fff;
     border: solid 1px #f0f0f0;
     box-shadow: 0 0 20px -2px rgba(0,0,0,0);
     position: relative;
 }
-#ptsBlock_357267 .ptsColHeader,
-#ptsBlock_357267 .ptsColDesc {
+#ptsBlock_769349 .ptsColHeader,
+#ptsBlock_769349 .ptsColDesc {
     background: #fafafa;
     padding: 40px 5px 30px 5px;
   	position: relative;
 }
-#ptsBlock_357267 .ptsColDesc:before {
+#ptsBlock_769349 .ptsColDesc:before {
 	content: '';
   	position: absolute;
   	left: 25%;
@@ -97,37 +273,37 @@ post_date: 2020-07-23 00:52:10
   	height: 1px;
   	width: 50%;
 }
-#ptsBlock_357267 .ptsColHeader .ptsIcon i {
+#ptsBlock_769349 .ptsColHeader .ptsIcon i {
 	font-size: 55px;
   	color: #333;
 }
-#ptsBlock_357267 .ptsColHeader span,
-#ptsBlock_357267 .ptsColHeader p {
+#ptsBlock_769349 .ptsColHeader span,
+#ptsBlock_769349 .ptsColHeader p {
     font-size: 28px;
     color: #333;
 }
-#ptsBlock_357267 .ptsColDesc {
+#ptsBlock_769349 .ptsColDesc {
     padding: 0 5px 20px 5px;
 }
-#ptsBlock_357267 .ptsRows {
+#ptsBlock_769349 .ptsRows {
 	padding-top: 20px;
 }
-#ptsBlock_357267 .ptsColDesc span,
-#ptsBlock_357267 .ptsColDesc p {
+#ptsBlock_769349 .ptsColDesc span,
+#ptsBlock_769349 .ptsColDesc p {
     font-size: 24px;
   	color: #333;
 }
-#ptsBlock_357267 .ptsRows .ptsCell {
+#ptsBlock_769349 .ptsRows .ptsCell {
   color: #333;
 }
-#ptsBlock_357267 .ptsRows .ptsCell span,
-#ptsBlock_357267 .ptsRows .ptsCell p {
+#ptsBlock_769349 .ptsRows .ptsCell span,
+#ptsBlock_769349 .ptsRows .ptsCell p {
   font-size: 14px;
 }
-#ptsBlock_357267 .ptsColFooter {
+#ptsBlock_769349 .ptsColFooter {
   padding: 20px 0 20px 0;
 }
-#ptsBlock_357267 .ptsColFooter .ptsActBtn a {
+#ptsBlock_769349 .ptsColFooter .ptsActBtn a {
     background-color: #fafafa;
     text-decoration: blink;
  	color: #fff;
@@ -137,11 +313,11 @@ post_date: 2020-07-23 00:52:10
     position: relative;
   	text-align: center;
 }
-#ptsBlock_357267 .ptsColFooter .ptsActBtn {
+#ptsBlock_769349 .ptsColFooter .ptsActBtn {
 	margin: 10px 0;
   	text-align: center;
 }
-#ptsBlock_357267 .ptsColFooter .ptsActBtn a:before {
+#ptsBlock_769349 .ptsColFooter .ptsActBtn a:before {
     content: '';
     position: absolute;
     top: 0;
@@ -152,7 +328,7 @@ post_date: 2020-07-23 00:52:10
     opacity: 0;
     transition: all .5s ease-out;
 }
-#ptsBlock_357267 .ptsColFooter .ptsActBtn a:hover:before {
+#ptsBlock_769349 .ptsColFooter .ptsActBtn a:hover:before {
     opacity: .3;
 }</style>
 		<!-- Start Test Element -->
