@@ -208,21 +208,21 @@ Register online at www.eventbrite.com/TBD
         <ul>
             <li>WAEYC Member</li>
             <li>$ 10 - Per session / per registered attendee</li>
-            <li><a href="#">Get tickets</a></li>
+            <li><a href="https://waeyc-virtual2020.eventbrite.com?discount=WAEYC-Member">Get tickets</a></li>
             <li>$ 120 - All-access pass / per registered attendee (save $40)</li>
-            <li><a href="#">Get pass</a></li>
+            <li><a href="https://waeyc-virtual2020.eventbrite.com?discount=WAEYC-Pass">Get pass</a></li>
         </ul>
         <ul>
             <li>Non-Member</li>
             <li>$ 15 - Per session / per registered attendee</li>
             <li>$ 160 - All-access pass/ per registered attendee (save $80)</li>
-            <li><a href="#">Get tickets</a></li>
+            <li><a href="https://waeyc-virtual2020.eventbrite.com">Get tickets</a></li>
         </ul>
         <ul>
             <li>Organization Discounts</li>
             <li>$ 600 - All-access for 10-19 staff</li>
             <li>$ 900 - All-access for 20+ staff</li>
-            <li><a href="#">Get tickets</a></li>
+            <li><a href="https://waeyc-virtual2020.eventbrite.com?discount=Organization-Pass">Get tickets</a></li>
             <li>* All attendees must be from the same organization</li>
         </ul>
 <p style="text-align: center;"><strong>Cancellation Policy</strong></p>
