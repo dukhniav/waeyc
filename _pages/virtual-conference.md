@@ -56,10 +56,8 @@ post_date: 2020-07-23 00:52:10
     <tr>
       <td>6:00-8:00pm</td>
       <td>
-        <a
-          >Empoderamiento, Resilliencia y Colaboración: Experiencias del
-          interinato Educativo durante el COVID 19, Jessica Ferreras Stone</a
-        >
+        <a>Empoderamiento, Resilliencia y Colaboración: Experiencias del
+          interinato Educativo durante el COVID 19, Jessica Ferreras Stone</a>
       </td>
     </tr>
   </tbody>
@@ -76,8 +74,7 @@ post_date: 2020-07-23 00:52:10
     <tr>
       <td>10:00am-12:00pm</td>
       <td>
-        <a
-          >First Responders to Challenging Behavior and Stress: Keeping
+        <a>First Responders to Challenging Behavior and Stress: Keeping
           Ourselves Healthy, Steve Erwin</a
         >
       </td>
@@ -133,8 +130,7 @@ post_date: 2020-07-23 00:52:10
     <tr>
       <td>6:30-8:00pm</td>
       <td>
-        <a
-          >Choosing to Advance Social Justice with Young Children, Carolyn
+        <a>Choosing to Advance Social Justice with Young Children, Carolyn
           Brennan and Miriam Packard</a
         >
       </td>
@@ -161,8 +157,7 @@ post_date: 2020-07-23 00:52:10
     <tr>
       <td>1:00-2:30pm</td>
       <td>
-        <a
-          >A New Normal – Being the Manager Your Team Needs in Extraordinary
+        <a>A New Normal – Being the Manager Your Team Needs in Extraordinary
           Times, Miriam Dressler</a
         >
       </td>
@@ -170,8 +165,7 @@ post_date: 2020-07-23 00:52:10
     <tr>
       <td>6:30-8:00pm</td>
       <td>
-        <a
-          >Relationship-Based Approaches to Infant-Toddler Program and Family
+        <a>Relationship-Based Approaches to Infant-Toddler Program and Family
           Partnerships, Marilyn Chu</a
         >
       </td>
@@ -200,8 +194,7 @@ post_date: 2020-07-23 00:52:10
     <tr>
       <td>1:00-3:00pm</td>
       <td>
-        <a
-          >Preschool in the Park: Using Public Spaces to Cultivate Curious,
+        <a>Preschool in the Park: Using Public Spaces to Cultivate Curious,
           Compassionate Kids - Rachel Franz</a
         >
       </td>
@@ -217,54 +210,54 @@ post_date: 2020-07-23 00:52:10
 				visibility: hidden;
 			}
 		</style>
-			<style type="text/css">#ptsBlock_769349 {
+			<style type="text/css">#ptsBlock_881034 {
     width: 100%;
   }
-#ptsBlock_769349 .ptsCol {
+#ptsBlock_881034 .ptsCol {
             width: 33.333333333333%;
       }
-#ptsBlock_769349 .ptsTableDescCol {
+#ptsBlock_881034 .ptsTableDescCol {
       display: none;
   }
-#ptsBlock_769349 .ptsCol.ptsTableDescCol .ptsColFooter {
+#ptsBlock_881034 .ptsCol.ptsTableDescCol .ptsColFooter {
 	visibility: hidden;
 }
-#ptsBlock_769349 p {
+#ptsBlock_881034 p {
   margin: 0;
 }
 /*Animations*/
-#ptsBlock_769349 .ptsCol .ptsTableElementContent,
-#ptsBlock_769349 .ptsCol .ptsTableElementContent span {
+#ptsBlock_881034 .ptsCol .ptsTableElementContent,
+#ptsBlock_881034 .ptsCol .ptsTableElementContent span {
   transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
 }
-#ptsBlock_769349 .ptsCol.hover .ptsTableElementContent {
+#ptsBlock_881034 .ptsCol.hover .ptsTableElementContent {
   z-index: 101;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-#ptsBlock_769349 .ptsCol.hover .ptsTableElementContent {
+#ptsBlock_881034 .ptsCol.hover .ptsTableElementContent {
   z-index: 101;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 /** Template Style **/
-#ptsBlock_769349 .ptsTableElementContent {
+#ptsBlock_881034 .ptsTableElementContent {
     background: #fff;
     border: solid 1px #f0f0f0;
     box-shadow: 0 0 20px -2px rgba(0,0,0,0);
     position: relative;
 }
-#ptsBlock_769349 .ptsColHeader,
-#ptsBlock_769349 .ptsColDesc {
+#ptsBlock_881034 .ptsColHeader,
+#ptsBlock_881034 .ptsColDesc {
     background: #fafafa;
     padding: 40px 5px 30px 5px;
   	position: relative;
 }
-#ptsBlock_769349 .ptsColDesc:before {
+#ptsBlock_881034 .ptsColDesc:before {
 	content: '';
   	position: absolute;
   	left: 25%;
@@ -273,37 +266,37 @@ post_date: 2020-07-23 00:52:10
   	height: 1px;
   	width: 50%;
 }
-#ptsBlock_769349 .ptsColHeader .ptsIcon i {
+#ptsBlock_881034 .ptsColHeader .ptsIcon i {
 	font-size: 55px;
   	color: #333;
 }
-#ptsBlock_769349 .ptsColHeader span,
-#ptsBlock_769349 .ptsColHeader p {
+#ptsBlock_881034 .ptsColHeader span,
+#ptsBlock_881034 .ptsColHeader p {
     font-size: 28px;
     color: #333;
 }
-#ptsBlock_769349 .ptsColDesc {
+#ptsBlock_881034 .ptsColDesc {
     padding: 0 5px 20px 5px;
 }
-#ptsBlock_769349 .ptsRows {
+#ptsBlock_881034 .ptsRows {
 	padding-top: 20px;
 }
-#ptsBlock_769349 .ptsColDesc span,
-#ptsBlock_769349 .ptsColDesc p {
+#ptsBlock_881034 .ptsColDesc span,
+#ptsBlock_881034 .ptsColDesc p {
     font-size: 24px;
   	color: #333;
 }
-#ptsBlock_769349 .ptsRows .ptsCell {
+#ptsBlock_881034 .ptsRows .ptsCell {
   color: #333;
 }
-#ptsBlock_769349 .ptsRows .ptsCell span,
-#ptsBlock_769349 .ptsRows .ptsCell p {
+#ptsBlock_881034 .ptsRows .ptsCell span,
+#ptsBlock_881034 .ptsRows .ptsCell p {
   font-size: 14px;
 }
-#ptsBlock_769349 .ptsColFooter {
+#ptsBlock_881034 .ptsColFooter {
   padding: 20px 0 20px 0;
 }
-#ptsBlock_769349 .ptsColFooter .ptsActBtn a {
+#ptsBlock_881034 .ptsColFooter .ptsActBtn a {
     background-color: #fafafa;
     text-decoration: blink;
  	color: #fff;
@@ -313,11 +306,11 @@ post_date: 2020-07-23 00:52:10
     position: relative;
   	text-align: center;
 }
-#ptsBlock_769349 .ptsColFooter .ptsActBtn {
+#ptsBlock_881034 .ptsColFooter .ptsActBtn {
 	margin: 10px 0;
   	text-align: center;
 }
-#ptsBlock_769349 .ptsColFooter .ptsActBtn a:before {
+#ptsBlock_881034 .ptsColFooter .ptsActBtn a:before {
     content: '';
     position: absolute;
     top: 0;
@@ -328,7 +321,7 @@ post_date: 2020-07-23 00:52:10
     opacity: 0;
     transition: all .5s ease-out;
 }
-#ptsBlock_769349 .ptsColFooter .ptsActBtn a:hover:before {
+#ptsBlock_881034 .ptsColFooter .ptsActBtn a:hover:before {
     opacity: .3;
 }</style>
 		<!-- Start Test Element -->
