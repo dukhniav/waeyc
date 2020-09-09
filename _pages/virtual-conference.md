@@ -202,8 +202,10 @@ post_date: 2020-07-23 00:52:10
   </tbody>
 </table>
 		      												Registration will be processed on a first come first serve basis until the capacity of each session is reached. Register early for the best selection and pricing. Early Bird Deadline is October 5th - after this date prices increase.
-Register online at www.eventbrite.com/TBD
+<br><br>
+* <b>Please review the conference program prior to registering for the event.</b>
 **To register via paper or PO please do so by contacting the event coordinator.
+<br><br>
 <p style="text-align: center;"><strong>Pricing</strong></p>
         <ul>
             <li>WAEYC Member</li>
