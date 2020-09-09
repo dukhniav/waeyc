@@ -65,4 +65,15 @@ STARS Credit is available to those who register and provide a valid STARS ID num
 Clock Hours will be available for a minimal fee and can be purchased before the end of the event and is based on the total number of hours in attendance.
 Participants will be required to attend live session streaming to qualify for STARS or Clock Hours							    			
 		      												<h4 style="text-align: center;">The 2020 Presenter Application is CLOSED!</h4>							    			
-		[awsmteam id="904"]<p>Thank you to our conference partners!</p>
+		[awsmteam id="904"]<p>Thank you to our conference partners!</p>		
+			<figure class='gallery-item'>
+				<img width="580" height="582" src="http://www.waeyc.org/wp-content/uploads/2020/09/WesternWashingtonUniversitySeal-768x770.png" alt="Western Washington University logo" loading="lazy" srcset="http://www.waeyc.org/wp-content/uploads/2020/09/WesternWashingtonUniversitySeal-768x770.png 768w, http://www.waeyc.org/wp-content/uploads/2020/09/WesternWashingtonUniversitySeal-150x150.png 150w, http://www.waeyc.org/wp-content/uploads/2020/09/WesternWashingtonUniversitySeal-300x300.png 300w, http://www.waeyc.org/wp-content/uploads/2020/09/WesternWashingtonUniversitySeal.png 989w" sizes="(max-width: 580px) 100vw, 580px" />
+			</figure><figure class='gallery-item'>
+				<img width="580" height="285" src="http://www.waeyc.org/wp-content/uploads/2020/09/Successful-Solutions-Logo-768x378.jpg" alt="Successful Solutions Logo" loading="lazy" srcset="http://www.waeyc.org/wp-content/uploads/2020/09/Successful-Solutions-Logo-768x378.jpg 768w, http://www.waeyc.org/wp-content/uploads/2020/09/Successful-Solutions-Logo-300x148.jpg 300w, http://www.waeyc.org/wp-content/uploads/2020/09/Successful-Solutions-Logo-1024x504.jpg 1024w, http://www.waeyc.org/wp-content/uploads/2020/09/Successful-Solutions-Logo.jpg 1127w" sizes="(max-width: 580px) 100vw, 580px" />
+			</figure><figure class='gallery-item'>
+				<img width="580" height="580" src="http://www.waeyc.org/wp-content/uploads/2020/09/EXCELSfeaturedvendor.jpg" alt="Kaplan logo" loading="lazy" srcset="http://www.waeyc.org/wp-content/uploads/2020/09/EXCELSfeaturedvendor.jpg 1500w, http://www.waeyc.org/wp-content/uploads/2020/09/EXCELSfeaturedvendor-300x300.jpg 300w, http://www.waeyc.org/wp-content/uploads/2020/09/EXCELSfeaturedvendor-150x150.jpg 150w" sizes="(max-width: 580px) 100vw, 580px" />
+			</figure><figure class='gallery-item'>
+				<img width="434" height="150" src="http://www.waeyc.org/wp-content/uploads/2020/09/hilltop-logo-name-bigltblue.gif" alt="Hilltop Children&#039;s Center logo" loading="lazy" />
+			</figure><figure class='gallery-item'>
+				<img width="200" height="168" src="http://www.waeyc.org/wp-content/uploads/2020/09/teachers-college-press-new.jpg" alt="Teachers College Press logo" loading="lazy" />
+			</figure>
