@@ -205,34 +205,26 @@ post_date: 2020-07-23 00:52:10
 Register online at www.eventbrite.com/TBD
 **To register via paper or PO please do so by contacting the event coordinator.
 <p style="text-align: center;"><strong>Pricing</strong></p>
-  <ul>
-    <li>WAEYC Member</li>
-    <li>$ 10</li>
-    <li>Per session / per registered attendee</li>
-    <li><a href="#">Get tickets</a></li>
-    <br>
-    <li>$ 120 </li>
-    <li>All-access pass / per registered attendee (save $40)</li>
-    <li><a href="#">Get pass</a></li>
-  </ul>
-  <ul>
-    <li style="background-color:#4CAF50">Non-Member</li>
-    <li>$ 15</li>
-    <li>Per session / per registered attendee</li>
-    <li></li>
-    <li>$ 160</li>
-    <li>all-access pass/ per registered attendee (save $80)</li>
-    <li><a href="#">Get tickets</a></li>
-  </ul>
-  <ul>
-    <li>Organization Discounts</li>
-    <li>$ 600</li>
-    <li>All-access for 10-19 staff</li>
-    <li>$ 900</li>
-    <li>All-access for 20+ staff</li>
-    <li><a href="#">Sign Up</a></li>
-    <li>* All attendees must be from the same organization</li>
-  </ul>
+        <ul>
+            <li>WAEYC Member</li>
+            <li>$ 10 - Per session / per registered attendee</li>
+            <li><a href="#">Get tickets</a></li>
+            <li>$ 120 - All-access pass / per registered attendee (save $40)</li>
+            <li><a href="#">Get pass</a></li>
+        </ul>
+        <ul>
+            <li style="background-color:#4CAF50">Non-Member</li>
+            <li>$ 15 - Per session / per registered attendee</li>
+            <li>$ 160 - All-access pass/ per registered attendee (save $80)</li>
+            <li><a href="#">Get tickets</a></li>
+        </ul>
+        <ul>
+            <li>Organization Discounts</li>
+            <li>$ 600 - All-access for 10-19 staff</li>
+            <li>$ 900 - All-access for 20+ staff</li>
+            <li><a href="#">Get tickets</a></li>
+            <li>* All attendees must be from the same organization</li>
+        </ul>
 <p style="text-align: center;"><strong>Cancellation Policy</strong></p>
 We will not be accepting cancellations. If you wish to transfer your registration to another attendee you may do so up until the first day of the conference. All sessions will be recorded (minus tours) and will be available to those who purchase the all-access pass for up to one year.
 <p style="text-align: center;"><strong>Continuing Education</strong></p>
