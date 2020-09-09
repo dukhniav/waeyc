@@ -31,7 +31,143 @@ post_date: 2020-07-23 00:52:10
 	      		      		<li>                                                        	      		 Registration</li>
 	      		      		<li>                                                        	      		 Presenters</li>
 	      	    		</ul>
-		      												<p style="text-align: center;">* Click on description to see event details</p><p style="text-align: center;"><b>Tuesday, October 20, 2020</b></p><table style="width: 100%;"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>10:00am-12:00pm</td><td><a>Supporting Challenging Behaviors, Michelle Duhon</a></td></tr><tr><td>1:00-2:30pm</td><td><a>Professional Development and Coaching, Ariane Gauvreau</a></td></tr><tr><td>6:00-8:00pm</td><td><a>Empoderamiento, Resilliencia y Colaboración: Experiencias del<br />interinato Educativo durante el COVID 19, Jessica Ferreras Stone</a></td></tr></tbody></table><p style="text-align: center;"><b>Wednesday, October 21, 2020</b></p><table style="width: 100%;" cellspacing="5" cellpadding="5"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>10:00am-12:00pm</td><td><a>First Responders to Challenging Behavior and Stress: Keeping<br />Ourselves Healthy, Steve Erwin&lt;/a &gt; </a></td></tr><tr><td>1:00-2:30pm</td><td><a><br />Talking about Feelings and Friendship: Supporting Young Children’s<br />Social-Emotional Development in Preschool, Jennifer Cunningham&lt;/a &gt; </a></td></tr><tr><td>6:30:8:00pm</td><td><a> TBD, Hilary Martinez </a></td></tr></tbody></table><p style="text-align: center;"><b>Thursday, October 22, 2020</b></p><table style="width: 100%;" cellspacing="5" cellpadding="5"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>9:30am-10:30am</td><td><a> Hilltop Virtual Tour, Hiltop Children's Center </a></td></tr><tr><td>10:00am-12pm &amp; 1:30-3:30pm</td><td><a>Early childhood teacher prep council meeting</a></td></tr><tr><td>11:30am-12:30pm</td><td><a>Program panel – operating during a pandemic, Brenda Boyd</a></td></tr><tr><td>1:30-2:30pm</td><td><a>Nap Cast, Mike Browne and Nick Terrones</a></td></tr><tr><td>6:30-8:00pm</td><td><a>Choosing to Advance Social Justice with Young Children, Carolyn<br />Brennan and Miriam Packard&lt;/a &gt; </a></td></tr></tbody></table><p style="text-align: center;"><b>Friday, October 23, 2020</b></p><table style="width: 100%;" cellspacing="5" cellpadding="5"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>10:00-11:00am</td><td><a>WWU Virtual Tour, WWU</a></td></tr><tr><td>11:30am-12:30pm</td><td><a>WAEYC Annual Meeting, WAEYC</a></td></tr><tr><td>1:00-2:30pm</td><td><a>A New Normal – Being the Manager Your Team Needs in Extraordinary<br />Times, Miriam Dressler&lt;/a &gt; </a></td></tr><tr><td>6:30-8:00pm</td><td><a>Relationship-Based Approaches to Infant-Toddler Program and Family<br />Partnerships, Marilyn Chu&lt;/a &gt; </a></td></tr></tbody></table><p style="text-align: center;"><b>Saturday, October 24, 2020</b></p><table style="width: 100%;" cellspacing="5" cellpadding="5"><thead><tr><th style="background-color: #7dcef1; width: 30%;">Time</th><th style="background-color: #7dcef1; width: 70%;">Description</th></tr></thead><tbody><tr><td>9:00-10:30am</td><td><a>Keynote: Talking to Youth About Heated Topics, Rosetta Lee</a></td></tr><tr><td>11:00-12:15pm</td><td><a>Child Care Advocacy, Ryan Pricco</a></td></tr><tr><td>1:00-3:00pm</td><td><a>Preschool in the Park: Using Public Spaces to Cultivate Curious,<br />Compassionate Kids - Rachel Franz</a></td></tr></tbody></table><p style="text-align: center;"> <a href="http://www.waeyc.org/wp-content/uploads/2020/09/WAEYC-Virtual-Conference-Program_DRAFT-8-1.pdf">Download as PDF</a></p>							    			
+		      												<p style="text-align: center;">* Click on description to see event details</p>
+<p style="text-align: center;"><b>Tuesday, October 20, 2020</b></p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:00am-12:00pm</td>
+<td><a>Supporting Challenging Behaviors, Michelle Duhon</a></td>
+</tr>
+<tr>
+<td>1:00-2:30pm</td>
+<td><a>Professional Development and Coaching, Ariane Gauvreau</a></td>
+</tr>
+<tr>
+<td>6:00-8:00pm</td>
+<td><a>Empoderamiento, Resilliencia y Colaboración: Experiencias del
+interinato Educativo durante el COVID 19, Jessica Ferreras Stone</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><b>Wednesday, October 21, 2020</b></p>
+<table style="width: 100%;" cellspacing="5" cellpadding="5">
+<thead>
+<tr>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:00am-12:00pm</td>
+<td><a>First Responders to Challenging Behavior and Stress: Keeping
+Ourselves Healthy, Steve Erwin</a></td>
+</tr>
+<tr>
+<td>1:00-2:30pm</td>
+<td><a>
+Talking about Feelings and Friendship: Supporting Young Children’s
+Social-Emotional Development in Preschool, Jennifer Cunningham </a></td>
+</tr>
+<tr>
+<td>6:30:8:00pm</td>
+<td><a>Early Childhood Pathways to Mathematics, Hilary Martinez </a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><b>Thursday, October 22, 2020</b></p>
+<table style="width: 100%;" cellspacing="5" cellpadding="5">
+<thead>
+<tr>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9:30am-10:30am</td>
+<td><a> Hilltop Virtual Tour, Hiltop Children's Center </a></td>
+</tr>
+<tr>
+<td>10:00am-12pm &amp; 1:30-3:30pm</td>
+<td><a>Early childhood teacher prep council meeting</a></td>
+</tr>
+<tr>
+<td>11:30am-12:30pm</td>
+<td><a>Program panel – operating during a pandemic, Brenda Boyd</a></td>
+</tr>
+<tr>
+<td>1:30-2:30pm</td>
+<td><a>Nap Cast, Mike Browne and Nick Terrones</a></td>
+</tr>
+<tr>
+<td>6:30-8:00pm</td>
+<td><a>Choosing to Advance Social Justice with Young Children, Carolyn
+Brennan and Miriam Packard</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><b>Friday, October 23, 2020</b></p>
+<table style="width: 100%;" cellspacing="5" cellpadding="5">
+<thead>
+<tr>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:00-11:00am</td>
+<td><a>WWU Virtual Tour, WWU</a></td>
+</tr>
+<tr>
+<td>11:30am-12:30pm</td>
+<td><a>WAEYC Annual Meeting, WAEYC</a></td>
+</tr>
+<tr>
+<td>1:00-2:30pm</td>
+<td><a>A New Normal – Being the Manager Your Team Needs in Extraordinary
+Times, Miriam Dressler</a></td>
+</tr>
+<tr>
+<td>6:30-8:00pm</td>
+<td><a>Relationship-Based Approaches to Infant-Toddler Program and Family
+Partnerships, Marilyn Chu</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><b>Saturday, October 24, 2020</b></p>
+<table style="width: 100%;" cellspacing="5" cellpadding="5">
+<thead>
+<tr>
+<th style="background-color: #7dcef1; width: 30%;">Time</th>
+<th style="background-color: #7dcef1; width: 70%;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9:00-10:30am</td>
+<td><a>Keynote: Talking to Youth About Heated Topics, Rosetta Lee</a></td>
+</tr>
+<tr>
+<td>11:00-12:15pm</td>
+<td><a>Child Care Advocacy, Ryan Pricco</a></td>
+</tr>
+<tr>
+<td>1:00-3:00pm</td>
+<td><a>Preschool in the Park: Using Public Spaces to Cultivate Curious,
+Compassionate Kids - Rachel Franz</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"> <a href="http://www.waeyc.org/wp-content/uploads/2020/09/WAEYC-Virtual-Conference-Program_DRAFT-8-1.pdf">Download as PDF</a></p>							    			
 		      												Registration will be processed on a first come first serve basis until the capacity of each session is reached. Register early for the best selection and pricing. Early Bird Deadline is October 5th - after this date prices increase.
 <br><br>
 * <b>Please review the conference program prior to registering for the event.</b>
