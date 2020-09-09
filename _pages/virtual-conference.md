@@ -213,7 +213,7 @@ Register online at www.eventbrite.com/TBD
             <li><a href="#">Get pass</a></li>
         </ul>
         <ul>
-            <li style="background-color:#4CAF50">Non-Member</li>
+            <li>Non-Member</li>
             <li>$ 15 - Per session / per registered attendee</li>
             <li>$ 160 - All-access pass/ per registered attendee (save $80)</li>
             <li><a href="#">Get tickets</a></li>
