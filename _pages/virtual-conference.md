@@ -67,13 +67,13 @@ Participants will be required to attend live session streaming to qualify for ST
                                                     <h4 style="text-align: center;">The 2020 Presenter Application is CLOSED!</h4>                                            
 		[awsmteam id="904"]<p>Thank you to our conference partners!</p>		
 			<figure class='gallery-item'>
-				<img width="238" height="200" src="http://www.waeyc.org/wp-content/uploads/2020/09/teachers-college-press-new.jpg" alt="" loading="lazy" />
-			</figure><figure class='gallery-item'>
 				<img width="406" height="200" src="http://www.waeyc.org/wp-content/uploads/2020/09/Successful-Solutions-Logo.jpg" alt="" loading="lazy" />
 			</figure><figure class='gallery-item'>
-				<img width="579" height="200" src="http://www.waeyc.org/wp-content/uploads/2020/09/hilltop-logo-name-bigltblue-1.gif" alt="" loading="lazy" />
+				<img width="200" height="200" src="http://www.waeyc.org/wp-content/uploads/2020/09/EXCELSfeaturedvendor-1.jpg" alt="" loading="lazy" />
 			</figure><figure class='gallery-item'>
 				<img width="200" height="200" src="http://www.waeyc.org/wp-content/uploads/2020/09/WesternWashingtonUniversitySeal.png" alt="" loading="lazy" />
 			</figure><figure class='gallery-item'>
-				<img width="200" height="200" src="http://www.waeyc.org/wp-content/uploads/2020/09/EXCELSfeaturedvendor-1.jpg" alt="" loading="lazy" />
+				<img width="238" height="200" src="http://www.waeyc.org/wp-content/uploads/2020/09/teachers-college-press-new.jpg" alt="" loading="lazy" />
+			</figure><figure class='gallery-item'>
+				<img width="579" height="200" src="http://www.waeyc.org/wp-content/uploads/2020/09/hilltop-logo-name-bigltblue-1.gif" alt="" loading="lazy" />
 			</figure>
